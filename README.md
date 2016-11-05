@@ -1,4 +1,4 @@
 # spring-boot-starter
 
-## spring boot ¸÷ÖÖÊ¾Àı
+## spring boot å„ç§ä½¿ç”¨ç¤ºä¾‹
 
