@@ -1,4 +1,4 @@
-package com.neo.rabbit;
+package com.neo.rabbit.hello;
 
 import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;

@@ -12,7 +12,7 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 
 - [spring-boot-mybaits-xml](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-mybatis-xml)：xml配置版本
 
-- [spring-boot-rabbitmq-simple](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-rabbitmq-simple)：spring boot和rabbitmq简单应用
+- [spring-boot-rabbitmq](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-rabbitmq)：spring boot和rabbitmq简单应用
 
 
 

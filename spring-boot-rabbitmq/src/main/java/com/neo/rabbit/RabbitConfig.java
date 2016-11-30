@@ -13,10 +13,14 @@ public class RabbitConfig {
         return new Queue("hello");
     }
 
-
     @Bean
     public Queue neoQueue() {
         return new Queue("neo");
+    }
+
+    @Bean
+    public Queue objectQueue() {
+        return new Queue("object");
     }
 
 

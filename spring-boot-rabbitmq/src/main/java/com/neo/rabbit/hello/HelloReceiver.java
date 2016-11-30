@@ -1,4 +1,4 @@
-package com.neo.rabbit;
+package com.neo.rabbit.hello;
 
 import org.springframework.amqp.rabbit.annotation.RabbitHandler;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
@@ -13,7 +13,7 @@ public class HelloReceiver {
 
     @RabbitHandler
     public void process(String hello) {
-        System.out.println("Receiver : " + hello);
+        System.out.println("Receiver  : " + hello);
     }
 
 }
