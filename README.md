@@ -11,8 +11,7 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 - [spring-boot-rabbitmq](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-rabbitmq)：spring boot和rabbitmq各种消息应用案例
 - [spring-boot-scheduler](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-scheduler)：spring boot和定时任务案例
 - [spring-boot-web](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-web)：web开发综合使用案例
-
-- [Favorites-web](https://github.com/cloudfavorites/favorites-web)：云收藏
+- [Favorites-web](https://github.com/cloudfavorites/favorites-web)：云收藏（springboot实战开源软件）
 
 
 
@@ -27,5 +26,4 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 - [springboot(七)：springboot+mybatis多数据源最简解决方案](http://www.ityouknow.com/springboot/2016/11/25/springboot(%E4%B8%83)-springboot+mybatis%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90%E6%9C%80%E7%AE%80%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.html)
 - [springboot(八)：RabbitMQ详解](http://www.ityouknow.com/springboot/2016/11/30/springboot(%E5%85%AB)-RabbitMQ%E8%AF%A6%E8%A7%A3.html)
 - [springboot(九)：定时任务](http://www.ityouknow.com/springboot/2016/12/02/springboot(%E4%B9%9D)-%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1.html)
-
 - [springboot实战：我们的第一款开源软件](http://www.ityouknow.com/springboot/2016/09/26/springboot%E5%AE%9E%E6%88%98-%E6%88%91%E4%BB%AC%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BE%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6.html)
