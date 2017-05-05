@@ -19,7 +19,7 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 
 文章可以参考这里
 
-- [springboot(一)：入门篇](http://www.cnblogs.com/ityouknow/p/5662753.html)
+- [springboot(一)：入门篇](http://www.ityouknow.com/springboot/2016/01/06/springboot(%E4%B8%80)-%E5%85%A5%E9%97%A8%E7%AF%87.html)
 - [springboot(二)：web综合开发](http://www.ityouknow.com/springboot/2016/02/03/springboot(%E4%BA%8C)-web%E7%BB%BC%E5%90%88%E5%BC%80%E5%8F%91.html)
 - [springboot(三)：Spring boot中Redis的使用](http://www.ityouknow.com/springboot/2016/03/06/springboot(%E4%B8%89)-Spring-Boot%E4%B8%ADRedis%E7%9A%84%E4%BD%BF%E7%94%A8.html)
 - [springboot(四)：thymeleaf使用详解](http://www.ityouknow.com/springboot/2016/05/01/springboot(%E5%9B%9B)-thymeleaf%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3.html)
