@@ -5,7 +5,6 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 
 
 - [spring-boot-helloworld](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-helloworld)：spring-boot的helloWorld版本
-- [spring-boot-helloworld-war](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-helloworld-war)：spring-boot打包成war包示例
 - [spring-boot-mybaits-annotation](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-mybatis-annotation)：注解版本
 - [spring-boot-mybaits-xml](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-mybatis-xml)：xml配置版本
 - [spring-boot-mybatis-mulidatasource](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-mybatis-mulidatasource)：springboot+mybatis多数据源最简解决方案
@@ -16,6 +15,7 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 - [spring-boot-mail](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-mail)：spring boot和邮件服务
 - [spring-boot-mongodb](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-mongodb)：spring boot和mongodb的使用
 - [spring-boot-multi-mongodb](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-multi-mongodb)：spring boot和mongodb多数据源的使用
+- [spring-boot-package-war](https://github.com/ityouknow/spring-boot-starter/tree/master/spring-boot-package-war)：spring-boot打包成war包示例
 - [Favorites-web](https://github.com/cloudfavorites/favorites-web)：云收藏（springboot实战开源软件）
 
 
