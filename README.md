@@ -3,7 +3,7 @@
 Demo website：http://www.ityouknow.com/
 
 
-[Contribution](https://github.com/ityouknow/spring-boot-examples/issues)&nbsp;| &nbsp;[English](README_EN.md)
+[参与贡献](https://github.com/ityouknow/spring-boot-examples/issues)&nbsp;| &nbsp;[English](README_EN.md)
 
 
 Spring boot使用的各种示例，以最简单、最实用为标准
@@ -25,7 +25,7 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 
 
 
-文章可以参考这里
+参考文章：
 
 - [springboot(一)：入门篇](http://www.ityouknow.com/springboot/2016/01/06/springboot(%E4%B8%80)-%E5%85%A5%E9%97%A8%E7%AF%87.html)
 - [springboot(二)：web综合开发](http://www.ityouknow.com/springboot/2016/02/03/springboot(%E4%BA%8C)-web%E7%BB%BC%E5%90%88%E5%BC%80%E5%8F%91.html)
