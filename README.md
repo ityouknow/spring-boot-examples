@@ -2,7 +2,6 @@
 
 Demo website：http://www.ityouknow.com/
 
-
 [参与贡献](https://github.com/ityouknow/spring-boot-examples/issues)&nbsp;| &nbsp;[English](README_EN.md)
 
 
@@ -42,7 +41,7 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 - [springboot实战：我们的第一款开源软件](http://www.ityouknow.com/springboot/2016/09/26/springboot%E5%AE%9E%E6%88%98-%E6%88%91%E4%BB%AC%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BE%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6.html)
 
 
-> 如果大家想了解关于springboot的其它方面应用，也可以以issues的形式反馈给我，我后续来完善。
+> 如果大家想了解关于springboot的其它方面应用，也可以以[issues](https://github.com/ityouknow/spring-boot-examples/issues)的形式反馈给我，我后续来完善。
 
  
 关注公众号：纯洁的微笑，回复"springboot"进群交流

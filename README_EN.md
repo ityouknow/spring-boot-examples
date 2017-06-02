@@ -17,7 +17,7 @@ Spring Boot Examples, Use the simplest and most useful scene demo.
 - [spring-boot-mybatis-annotation-mulidatasource](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-annotation-mulidatasource)：Spring Boot+ mybatis annotation + mulidatasource
 - [spring-boot-rabbitmq](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-rabbitmq)： using AMQP and RabbitMQ
 - [spring-boot-scheduler](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-scheduler)：Timed tasks developed using Spring Boot 
-- [spring-boot-web](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-web)：web projects developed using Spring Boot 
+- [spring-boot-web](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-web)：Web projects developed using Spring Boot 
 - [spring-boot-mail](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mail)：Mail system developed using Spring Boot 
 - [spring-boot-mongodb](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mongodb)：Spring Boot + Mongodb
 - [spring-boot-multi-mongodb](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-multi-mongodb)：Spring Boot + multiMongodb
