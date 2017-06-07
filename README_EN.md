@@ -9,7 +9,6 @@ Demo website：http://www.ityouknow.com/
 
 Spring Boot Examples, Use the simplest and most useful scene demo.
 
-
 - [spring-boot-helloworld](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-helloworld)：Spring Boot helloWorld demo
 - [spring-boot-mybaits-annotation](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-annotation)：Spring Boot use mybatis annotation
 - [spring-boot-mybaits-xml](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-xml)：Spring Boot use mybatis xml 
