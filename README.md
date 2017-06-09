@@ -8,7 +8,7 @@ Demo website：http://www.ityouknow.com/
 Spring boot使用的各种示例，以最简单、最实用为标准
 
                            
-- [spring-boot-helloworld](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-helloWorld)：spring-boot的helloWorld版本
+- [spring-boot-helloWorld](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-helloWorld)：spring-boot的helloWorld版本
 - [spring-boot-mybaits-annotation](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-annotation)：注解版本
 - [spring-boot-mybaits-xml](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-xml)：xml配置版本
 - [spring-boot-mybatis-mulidatasource](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-mulidatasource)：springboot+mybatis多数据源最简解决方案
