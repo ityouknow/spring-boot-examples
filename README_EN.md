@@ -21,4 +21,5 @@ Spring Boot Examples, Use the simplest and most useful scene demo.
 - [spring-boot-mongodb](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mongodb)：Spring Boot + Mongodb
 - [spring-boot-multi-mongodb](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-multi-mongodb)：Spring Boot + multiMongodb
 - [spring-boot-package-war](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-package-war)：Spring Boot package war
+- [spring-boot-shiro](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-shiro)：spring boot shiro rbac demo 
 - [Favorites-web](https://github.com/cloudfavorites/favorites-web)：Open source projects developed using Spring Boot

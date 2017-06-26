@@ -1,0 +1,23 @@
+spring:
+    datasource:
+      url: jdbc:mysql://localhost:3306/test
+      username: root
+      password: root
+      #schema: database/import.sql
+      #sql-script-encoding: utf-8
+      driver-class-name: com.mysql.jdbc.Driver
+
+    jpa:
+      database: mysql
+      show-sql: true
+      hibernate:
+        ddl-auto: update
+        naming:
+          strategy: org.hibernate.cfg.DefaultComponentSafeNamingStrategy
+      properties:
+         hibernate:
+            dialect: org.hibernate.dialect.MySQL5Dialect
+
+    thymeleaf:
+       cache: false
+       mode: LEGACYHTML5
