@@ -5,7 +5,7 @@ Demo website：http://www.ityouknow.com/
 [参与贡献](https://github.com/ityouknow/spring-boot-examples/issues)&nbsp;| &nbsp;[English](README_EN.md)
 
 
-Spring boot使用的各种示例，以最简单、最实用为标准
+Spring boot使用的各种示例，以最简单、最实用为标准 hello
 
                            
 - [spring-boot-helloWorld](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-helloWorld)：spring-boot的helloWorld版本
