@@ -41,7 +41,6 @@ public class UserController {
         return "redirect:/list";
     }
 
-
     @RequestMapping("/toEdit")
     public String toEdit(Model model,Long id) {
         User user=userService.findUserById(id);

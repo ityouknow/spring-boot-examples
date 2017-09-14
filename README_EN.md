@@ -14,6 +14,9 @@ Spring Boot Examples, Use the simplest and most useful scene demo.
 - [spring-boot-mybaits-xml](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-xml)：Spring Boot use mybatis xml 
 - [spring-boot-mybatis-mulidatasource](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-mulidatasource)：Spring Boot+mybatis+mulidatasource
 - [spring-boot-mybatis-annotation-mulidatasource](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-annotation-mulidatasource)：Spring Boot+ mybatis annotation + mulidatasource
+- [spring-boot-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-thymeleaf)：simple spring boot thymeleaf demo
+spring-boot-thymeleaf)：简单 spring boot thymeleaf 脚手架
+- [spring-boot-jpa-thymeleaf-curd](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-jpa-thymeleaf-curd)：spring boot + jpa + thymeleaf curd demo
 - [spring-boot-rabbitmq](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-rabbitmq)： using AMQP and RabbitMQ
 - [spring-boot-scheduler](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-scheduler)：Timed tasks developed using Spring Boot 
 - [spring-boot-web](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-web)：Web projects developed using Spring Boot 
@@ -22,7 +25,4 @@ Spring Boot Examples, Use the simplest and most useful scene demo.
 - [spring-boot-multi-mongodb](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-multi-mongodb)：Spring Boot + multiMongodb
 - [spring-boot-package-war](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-package-war)：Spring Boot package war
 - [spring-boot-shiro](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-shiro)：spring boot shiro rbac demo 
-- [spring-boot-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-thymeleaf)：simple spring boot thymeleaf demo
-spring-boot-thymeleaf)：简单 spring boot thymeleaf 脚手架
-- [spring-boot-jpa-thymeleaf-curd](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-jpa-thymeleaf-curd)：spring boot + jpa + thymeleaf curd demo
 - [Favorites-web](https://github.com/cloudfavorites/favorites-web)：Open source projects developed using Spring Boot
