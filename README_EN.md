@@ -23,4 +23,6 @@ Spring Boot Examples, Use the simplest and most useful scene demo.
 - [spring-boot-package-war](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-package-war)：Spring Boot package war
 - [spring-boot-shiro](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-shiro)：spring boot shiro rbac demo 
 - [spring-boot-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-thymeleaf)：simple spring boot thymeleaf demo
+spring-boot-thymeleaf)：简单 spring boot thymeleaf 脚手架
+- [spring-boot-jpa-thymeleaf-curd](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-jpa-thymeleaf-curd)：spring boot + jpa + thymeleaf curd demo
 - [Favorites-web](https://github.com/cloudfavorites/favorites-web)：Open source projects developed using Spring Boot

@@ -22,6 +22,7 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 - [spring-boot-package-war](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-package-war)：spring-boot打包成war包示例
 - [spring-boot-shiro](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-shiro)：springboot 整合shiro rbac示例
 - [spring-boot-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-thymeleaf)：简单 spring boot thymeleaf 脚手架
+- [spring-boot-jpa-thymeleaf-curd](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-jpa-thymeleaf-curd)：spring boot + jpa + thymeleaf 增删改查示例
 - [Favorites-web](https://github.com/cloudfavorites/favorites-web)：云收藏（springboot实战开源软件）
 
 
