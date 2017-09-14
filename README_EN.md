@@ -15,7 +15,6 @@ Spring Boot Examples, Use the simplest and most useful scene demo.
 - [spring-boot-mybatis-mulidatasource](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-mulidatasource)：Spring Boot+mybatis+mulidatasource
 - [spring-boot-mybatis-annotation-mulidatasource](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-annotation-mulidatasource)：Spring Boot+ mybatis annotation + mulidatasource
 - [spring-boot-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-thymeleaf)：simple spring boot thymeleaf demo
-spring-boot-thymeleaf)：simple spring boot thymeleaf demo
 - [spring-boot-jpa-thymeleaf-curd](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-jpa-thymeleaf-curd)：spring boot + jpa + thymeleaf curd demo
 - [spring-boot-rabbitmq](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-rabbitmq)： using AMQP and RabbitMQ
 - [spring-boot-scheduler](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-scheduler)：Timed tasks developed using Spring Boot 
