@@ -1,5 +1,7 @@
 # Spring Boot Examples
 
+## [Spring Boot 精选达人课程，欢迎关注！](http://gitbook.cn/gitchat/column/59f5daa149cd4330613605ba)
+
 Demo website：http://www.ityouknow.com/
 
 [参与贡献](https://github.com/ityouknow/spring-boot-examples/issues)&nbsp;| &nbsp;[English](README_EN.md)
@@ -23,8 +25,6 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 - [spring-boot-multi-mongodb](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-multi-mongodb)：spring boot和mongodb多数据源的使用
 - [spring-boot-package-war](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-package-war)：spring-boot打包成war包示例
 - [spring-boot-shiro](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-shiro)：springboot 整合shiro rbac示例
-- [spring-boot-file-upload](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-file-upload)：springboot 集成上传文件示例
-- [spring-boot-fastDFS](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-fastDFS)：springboot 集成FastDFS示例
 
 **[Favorites-web](https://github.com/cloudfavorites/favorites-web)：云收藏（springboot实战开源项目）**
 
@@ -51,7 +51,7 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 
 > 如果大家想了解关于springboot的其它方面应用，也可以以[issues](https://github.com/ityouknow/spring-boot-examples/issues)的形式反馈给我，我后续来完善。
 
- 
+
 关注公众号：纯洁的微笑，回复"springboot"进群交流
 
 ![](http://www.ityouknow.com/assets/images/keeppuresmile.jpg)
