@@ -46,6 +46,8 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 - [springboot(十二)：springboot如何测试打包部署](http://www.ityouknow.com/springboot/2017/05/09/springboot-deploy.html)
 - [springboot(十三)：springboot小技巧](http://www.ityouknow.com/springboot/2017/06/22/springboot-tips.html)
 - [springboot(十四)：springboot整合shiro-登录认证和权限管理](http://www.ityouknow.com/springboot/2017/06/26/springboot-shiro.html)
+- [springboot(十五)：springboot+jpa+thymeleaf增删改查示例](http://www.ityouknow.com/springboot/2017/09/23/spring-boot-jpa-thymeleaf-curd.html)  
+- [springboot(十六)：使用Jenkins部署Spring Boot](http://www.ityouknow.com/springboot/2017/11/11/springboot-jenkins.html)  
 
 **[springboot实战：我们的第一款开源项目](http://www.ityouknow.com/springboot/2016/09/26/springboot%E5%AE%9E%E6%88%98-%E6%88%91%E4%BB%AC%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BE%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6.html)**
 
