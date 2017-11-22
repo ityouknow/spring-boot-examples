@@ -6,6 +6,9 @@ Demo website：http://www.ityouknow.com/
 
 [参与贡献](https://github.com/ityouknow/spring-boot-examples/issues)&nbsp;| &nbsp;[English](README_EN.md)
 
+**[github地址](https://github.com/ityouknow/spring-boot-examples)**
+
+**[码云地址](https://gitee.com/ityouknow/spring-boot-examples)**
 
 Spring boot使用的各种示例，以最简单、最实用为标准
 
