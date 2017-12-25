@@ -67,7 +67,7 @@ public class UserEntity implements Serializable {
 	@Override
 	public String toString() {
 		// TODO Auto-generated method stub
-		return "userName " + this.userName + ", pasword " + this.passWord + "sex " + userSex.name();
+		return "userName " + this.userName + ", password " + this.passWord + "sex " + userSex.name();
 	}
 
 }
