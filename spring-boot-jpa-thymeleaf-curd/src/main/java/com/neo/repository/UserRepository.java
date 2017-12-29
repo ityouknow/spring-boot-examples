@@ -7,5 +7,5 @@ public interface UserRepository extends JpaRepository<User, Long> {
 
     User findById(long id);
 
-    Long deleteById(Long id);
+    long deleteById(long id);
 }
