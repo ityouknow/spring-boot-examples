@@ -28,8 +28,8 @@ no test
 
 ## Author
 
-ityouknow@126.com
-lizhipeng@gmail.com
+* ityouknow@126.com
+* lizhipeng@gmail.com
 
 
 
