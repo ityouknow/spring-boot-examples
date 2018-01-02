@@ -1,22 +1,24 @@
 package com.neo.task;
 
+import java.time.LocalDateTime;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
-
-import java.util.Date;
 
 /**
  * Created by summer on 2016/12/1.
  */
 
-@Component
+//@Component
 public class SchedulerTask {
 
-    private int count=0;
+  private int j = 0;
 
-    @Scheduled(cron="*/6 * * * * ?")
-    private void process(){
-        System.out.println("this is scheduler task runing  "+(count++));
-    }
+  @Scheduled(fixedDelay = 6000)
+  public void reportCurrentTime2() throws InterruptedException {
+    System.out.println("next:" + j + "现在时间：" + LocalDateTime.now().toString());
+    Thread.sleep(2 * 1000);
+    System.out.println("next:" + j + "结束时间：" + LocalDateTime.now().toString());
+    j++;
+  }
 
 }
