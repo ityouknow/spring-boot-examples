@@ -1,0 +1,36 @@
+spring :
+  datasource :
+      url : jdbc:mysql://localhost:3306/springbootdb
+      username : root
+      password : 1qaz2wsx#EDC
+      driver-class-name : com.mysql.jdbc.Driver
+      
+  jpa :
+    database : MYSQL
+    show-sql : true
+    hibernate : 
+      ddl-auto : update
+    properties:  
+      hibernate:  
+        dialect : org.hibernate.dialect.MySQL5InnoDBDialect
+    
+  redis : 
+    database : 0
+    host : 192.168.136.131
+    port : 6379 
+    password : 
+    pool: 
+      max-active : 8
+      max-wait : -1 
+      max-idle : 8  
+      min-idle : 0
+           
+com : 
+  neo : 
+    title : 欢迎 
+    description : Welcome 李志鹏
+    
+
+
+
+
