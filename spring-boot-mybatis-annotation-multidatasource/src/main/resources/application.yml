@@ -1,0 +1,27 @@
+mysql :
+  datasource :
+    test1:
+      url : jdbc:mysql://localhost:3306/springbootdb?useUnicode=true
+      username : root
+      password : 1qaz2wsx#EDC
+      minPoolSize : 3  
+      maxPoolSize : 25  
+      maxLifetime : 20000  
+      borrowConnectionTimeout : 30  
+      loginTimeout : 30  
+      maintenanceInterval : 60  
+      maxIdleTime : 60  
+      testQuery : select 1
+    test2 :       
+      url : jdbc:mysql://localhost:3306/springbootdb2?useUnicode=true
+      username : root
+      password : 1qaz2wsx#EDC
+      minPoolSize : 3  
+      maxPoolSize : 25  
+      maxLifetime : 20000  
+      borrowConnectionTimeout : 30  
+      loginTimeout : 30  
+      maintenanceInterval : 60  
+      maxIdleTime : 60  
+      testQuery : select 1  
+
