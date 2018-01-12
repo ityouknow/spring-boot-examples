@@ -1,7 +1,5 @@
 # Spring Boot Examples
 
-## [Spring Boot 精选达人课程，欢迎关注！](http://gitbook.cn/gitchat/column/59f5daa149cd4330613605ba)
-
 Demo website：http://www.ityouknow.com/
 
 [参与贡献](https://github.com/ityouknow/spring-boot-examples/issues)&nbsp;| &nbsp;[English](README_EN.md)
