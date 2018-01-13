@@ -17,11 +17,8 @@ public class FastDFSClient {
 
 	static {
 		try {
-			Resource resource = new ClassPathResource("fdfs_client.conf");
-			File file = resource.getFile();
-			String configFile = file.getAbsolutePath();
-
-			ClientGlobal.init(configFile);
+			String filePath = new ClassPathResource("fdfs_client.conf").getFile().getAbsolutePath();;
+			ClientGlobal.init(filePath);
 			trackerClient = new TrackerClient();
 			trackerServer = trackerClient.getConnection();
 			storageServer = trackerClient.getStoreStorage(trackerServer);
@@ -99,5 +96,9 @@ public class FastDFSClient {
 	public static ServerInfo[] getFetchStorages(String groupName,
 												String remoteFileName) throws IOException {
 		return trackerClient.getFetchStorages(trackerServer, groupName, remoteFileName);
+	}
+
+	public static String getTrackerUrl() {
+		return "http://"+trackerServer.getInetSocketAddress().getHostString()+":"+ClientGlobal.getG_tracker_http_port()+"/";
 	}
 }

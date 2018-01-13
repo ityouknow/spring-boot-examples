@@ -1,11 +1,9 @@
 package com.neo.controller;
 
-import com.neo.config.Configurations;
 import com.neo.fastdfs.FastDFSClient;
 import com.neo.fastdfs.FastDFSFile;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -19,8 +17,6 @@ import java.io.InputStream;
 @Controller
 public class UploadController {
     private static Logger logger = LoggerFactory.getLogger(UploadController.class);
-    @Autowired
-    private Configurations configuration;
 
     @GetMapping("/")
     public String index() {
@@ -34,7 +30,6 @@ public class UploadController {
             redirectAttributes.addFlashAttribute("message", "Please select a file to upload");
             return "redirect:uploadStatus";
         }
-
         try {
             // Get the file and save it somewhere
             String path=saveFile(file);
@@ -73,13 +68,13 @@ public class UploadController {
         FastDFSFile file = new FastDFSFile(fileName, file_buff, ext);
         try {
             fileAbsolutePath = FastDFSClient.upload(file);  //upload to fastdfs
-        } catch (Exception e1) {
-            e1.printStackTrace();
+        } catch (Exception e) {
+            logger.error("upload file Exception!",e);
         }
         if (fileAbsolutePath==null) {
-            System.out.println("upload file failed,please upload again!");
+            logger.error("upload file failed,please upload again!");
         }
-        String path=configuration.getFdfsUrl()+fileAbsolutePath[0]+ "/"+fileAbsolutePath[1];
+        String path=FastDFSClient.getTrackerUrl()+fileAbsolutePath[0]+ "/"+fileAbsolutePath[1];
         return path;
     }
 }
