@@ -4,8 +4,9 @@ this is ablout learn Spring Boot Examples
 
 Demo website：http://www.ityouknow.com/
 
-[Contribution](https://github.com/ityouknow/spring-boot-examples/issues)&nbsp;| &nbsp;[中文](README.md)
+[Spring Cloud example code](https://github.com/ityouknow/spring-cloud-examples)
 
+[Contribution](https://github.com/ityouknow/spring-boot-examples/issues)&nbsp;| &nbsp;[中文](README.md)
 
 Spring Boot Examples, Use the simplest and most useful scene demo.
 
