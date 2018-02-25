@@ -58,6 +58,7 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 - [springboot(十七)：使用Spring Boot上传文件](http://www.ityouknow.com/springboot/2018/01/12/spring-boot-upload-file.html)   
 - [springboot(十八)：使用Spring Boot集成FastDFS](http://www.ityouknow.com/springboot/2018/01/16/spring-boot-fastdfs.html)   
 - [springboot(十九)：使用Spring Boot Actuator监控应用](http://www.ityouknow.com/springboot/2018/02/06/spring-boot-actuator.html)   
+- [springboot(二十)：使用spring-boot-admin对spring-boot服务进行监控](http://www.ityouknow.com/springboot/2018/02/11/spring-boot-admin.html)   
 
 **[springboot实战：我们的第一款开源项目](http://www.ityouknow.com/springboot/2016/09/26/springboot%E5%AE%9E%E6%88%98-%E6%88%91%E4%BB%AC%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BE%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6.html)**
 
