@@ -1,10 +1,10 @@
 # Spring Boot Examples
 
-Spring boot使用的各种示例，以最简单、最实用为标准
+Spring Boot使用的各种示例，以最简单、最实用为标准
 
 [Spring Boot 中文索引](https://github.com/ityouknow/awesome-spring-boot) &nbsp;| &nbsp; [Spring Cloud学习示例代码](https://github.com/ityouknow/spring-cloud-examples)
 
-[English](README_EN.md) &nbsp;| &nbsp;  **[github地址](https://github.com/ityouknow/spring-boot-examples)** &nbsp;| &nbsp; **[码云地址](https://gitee.com/ityouknow/spring-boot-examples)**
+[English](README_EN.md) &nbsp;| &nbsp;  [Github地址](https://github.com/ityouknow/spring-boot-examples) &nbsp;| &nbsp;[码云地址](https://gitee.com/ityouknow/spring-boot-examples)
 
 ---
 
@@ -71,7 +71,7 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 
 ---
 
-> 如果大家想了解关于springboot的其它方面应用，也可以以[issues](https://github.com/ityouknow/spring-boot-examples/issues)的形式反馈给我，我后续来完善。
+> 如果大家想了解关于 Spring Boot 的其它方面应用，也可以以[issues](https://github.com/ityouknow/spring-boot-examples/issues)的形式反馈给我，我后续来完善。
 
 关注公众号：纯洁的微笑，回复"springboot"进群交流
 
