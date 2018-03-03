@@ -10,9 +10,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.data.redis.core.ValueOperations;
-import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import com.tools.schedulejob.Application;
+
 import com.tools.schedulejob.domain.User;
 
 import org.springframework.test.context.junit4.SpringRunner;
@@ -25,7 +24,7 @@ public class TestRedis {
     private StringRedisTemplate stringRedisTemplate;
     
 	@Autowired
-	private RedisTemplate redisTemplate;
+	private RedisTemplate<String, User> redisTemplate;
 
     @Test
     public void test() throws Exception {

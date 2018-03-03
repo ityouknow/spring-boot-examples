@@ -8,11 +8,8 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import com.tools.schedulejob.Application;
 import com.tools.schedulejob.util.NeoProperties;
-
 import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
@@ -35,7 +32,8 @@ public class ProPertiesTest {
     @Test
     public void testMap() throws Exception {
     	Map<String, Long> orderMinTime=new HashMap<String, Long>();
-    	long xx=orderMinTime.get("123");
+    	orderMinTime.put("age", (long) 25);
+    	System.out.println(orderMinTime.get("age"));
     }
 
 }
