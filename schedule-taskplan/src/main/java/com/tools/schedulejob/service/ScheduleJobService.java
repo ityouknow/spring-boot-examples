@@ -36,7 +36,7 @@ public class ScheduleJobService {
 
 
       //初始化任务(ListenJob.class)
-      JobDetail job = JobBuilder.newJob(ListenJob.class).withIdentity(paramJobName,paramJobGroupName).build();
+      JobDetail job = JobBuilder.newJob(ShedulejobListenjobService.class).withIdentity(paramJobName,paramJobGroupName).build();
 
       //设置任务开始时间
       Date startTime = new Date();

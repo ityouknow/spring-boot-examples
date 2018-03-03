@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
 //不允许并非执行任务
 @DisallowConcurrentExecution
 @Service
-public class ListenJob implements Job{
+public class ShedulejobListenjobService implements Job{
 
 //实现Job接口的方法
 public void execute(JobExecutionContext content) throws JobExecutionException {
