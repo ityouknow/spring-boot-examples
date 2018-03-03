@@ -63,7 +63,6 @@ public class ScheduleJobService {
 
       //调度器为空
       if(scheduler==null){
-    	  System.out.println("----------->stop now.");
           return;
       }
       try {
