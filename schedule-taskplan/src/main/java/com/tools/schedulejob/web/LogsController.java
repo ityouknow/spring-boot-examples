@@ -20,7 +20,7 @@ public class LogsController {
 	@Autowired
 	private LogsRepository logsRepository;
 
-	/*
+
 	@RequestMapping("/getLog")
 	@Cacheable(value = "log-key")
 	public Logs getLogs() {
@@ -36,5 +36,5 @@ public class LogsController {
 		logger.info("若下面没出现“无缓存的时候调用”字样且能打印出数据表示测试成功");
 		return Logs;
 	}
-	*/
+
 }
