@@ -41,7 +41,7 @@ Spring Boot使用的各种示例，以最简单、最实用为标准
 - [spring-boot-actuator](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-actuator)：Spring Boot Actuator 使用示例
 - [spring-boot-admin-simple](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-admin-simple)：Spring Boot Admin 的使用示例  
 
-**[Favorites-web](https://github.com/cloudfavorites/favorites-web)：云收藏（springboot实战开源项目）**
+**[Favorites-web](https://github.com/cloudfavorites/favorites-web)：云收藏（Spring Boot 实战开源项目）**
 
 
 **参考文章**
@@ -67,7 +67,7 @@ Spring Boot使用的各种示例，以最简单、最实用为标准
 - [springboot(十九)：使用Spring Boot Actuator监控应用](http://www.ityouknow.com/springboot/2018/02/06/spring-boot-actuator.html)   
 - [springboot(二十)：使用spring-boot-admin对spring-boot服务进行监控](http://www.ityouknow.com/springboot/2018/02/11/spring-boot-admin.html)   
 
-**[springboot实战：我们的第一款开源项目](http://www.ityouknow.com/springboot/2016/09/26/springboot%E5%AE%9E%E6%88%98-%E6%88%91%E4%BB%AC%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BE%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6.html)**
+**[Spring Boot 实战：我们的第一款开源项目](http://www.ityouknow.com/springboot/2016/09/26/springboot%E5%AE%9E%E6%88%98-%E6%88%91%E4%BB%AC%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BE%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6.html)**
 
 ---
 
