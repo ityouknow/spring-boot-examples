@@ -1,4 +1,4 @@
-package com.tools.web;
+package com.tools.schedulejob.web;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;

@@ -1,4 +1,4 @@
-package com.tools;
+package com.tools.schedulejob;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

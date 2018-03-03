@@ -1,4 +1,4 @@
-package com.tools.domain;
+package com.tools.schedulejob.domain;
 
 import java.text.DateFormat;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package com.tools.util;
+package com.tools.schedulejob.util;
 
 import java.util.concurrent.TimeUnit;
 
