@@ -1,20 +1,28 @@
 # Spring Boot Examples
 
-Demo website：http://www.ityouknow.com/
-
-[Spring Cloud学习示例代码](https://github.com/ityouknow/spring-cloud-examples)
-
-[Spring Boot 中文索引](https://github.com/ityouknow/awesome-spring-boot)
-
-[参与贡献](https://github.com/ityouknow/spring-boot-examples/issues)&nbsp;| &nbsp;[English](README_EN.md)
-
-**[github地址](https://github.com/ityouknow/spring-boot-examples)**
-
-**[码云地址](https://gitee.com/ityouknow/spring-boot-examples)**
-
 Spring boot使用的各种示例，以最简单、最实用为标准
 
-                           
+[Spring Boot 中文索引](https://github.com/ityouknow/awesome-spring-boot) &nbsp;| &nbsp; [Spring Cloud学习示例代码](https://github.com/ityouknow/spring-cloud-examples)
+
+[参与贡献](https://github.com/ityouknow/spring-boot-examples/issues) &nbsp;| &nbsp; [English](README_EN.md)
+
+**[github地址](https://github.com/ityouknow/spring-boot-examples)** &nbsp;| &nbsp; **[码云地址](https://gitee.com/ityouknow/spring-boot-examples)**
+
+---
+
+## Spring Boot 2.0
+
+**参考文章**
+
+- [Spring Boot 2.0(一)：【重磅】Spring Boot 2.0权威发布](http://www.ityouknow.com/springboot/2018/03/01/spring-boot-2.0.html)
+
+
+---
+
+## Spring Boot 1.0
+
+**示例代码**
+
 - [spring-boot-helloWorld](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-helloWorld)：spring-boot的helloWorld版本
 - [spring-boot-mybaits-annotation](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-annotation)：注解版本
 - [spring-boot-mybaits-xml](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-xml)：xml配置版本
@@ -38,8 +46,7 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 **[Favorites-web](https://github.com/cloudfavorites/favorites-web)：云收藏（springboot实战开源项目）**
 
 
-
-参考文章：
+**参考文章**
 
 - [springboot(一)：入门篇](http://www.ityouknow.com/springboot/2016/01/06/springboot(%E4%B8%80)-%E5%85%A5%E9%97%A8%E7%AF%87.html)
 - [springboot(二)：web综合开发](http://www.ityouknow.com/springboot/2016/02/03/springboot(%E4%BA%8C)-web%E7%BB%BC%E5%90%88%E5%BC%80%E5%8F%91.html)
@@ -64,8 +71,10 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 
 **[springboot实战：我们的第一款开源项目](http://www.ityouknow.com/springboot/2016/09/26/springboot%E5%AE%9E%E6%88%98-%E6%88%91%E4%BB%AC%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BE%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6.html)**
 
-> 如果大家想了解关于springboot的其它方面应用，也可以以[issues](https://github.com/ityouknow/spring-boot-examples/issues)的形式反馈给我，我后续来完善。
+## 其它
 
+
+> 如果大家想了解关于springboot的其它方面应用，也可以以[issues](https://github.com/ityouknow/spring-boot-examples/issues)的形式反馈给我，我后续来完善。
 
 关注公众号：纯洁的微笑，回复"springboot"进群交流
 
