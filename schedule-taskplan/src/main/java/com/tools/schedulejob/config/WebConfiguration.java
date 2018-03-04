@@ -59,7 +59,6 @@ public class WebConfiguration {
 			HttpServletRequest request = (HttpServletRequest) srequest;
 			logger.info("this is MyFilter,url :" + request.getRequestURI());
 
-			String urlPath = request.getRequestURL().toString();
 			/*
 			 * String getContextPath = request.getContextPath(); String basePath =
 			 * request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()
@@ -78,7 +77,9 @@ public class WebConfiguration {
 			 * out.println("getQueryString:"+ getQueryString +"<br>");
 			 * out.println("getRemoteUser:"+ getRemoteUser +"<br>");
 			 */
-			logsRepository.save(new Logs(urlPath, request.getMethod() + " : " + request.getRequestURI()));
+			
+			//String action, String method, String url
+			logsRepository.save(new Logs(request.getRequestURI(), request.getMethod(), request.getRequestURL().toString() ));
 
 			filterChain.doFilter(srequest, sresponse);
 		}

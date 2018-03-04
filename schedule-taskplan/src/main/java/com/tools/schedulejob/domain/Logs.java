@@ -16,17 +16,22 @@ public class Logs implements Serializable {
 	@GeneratedValue
 	private Long id;
 	@Column(nullable = false, unique = false)
+	
 	private String url;
 	@Column(nullable = false, unique = false)
 	private String method;
+	
+	@Column(nullable = false, unique = false)
+	private String action;
 
 	public Logs() {
 		super();
 	}
-	public Logs(String url, String method) {
+	public Logs(String action, String method, String url) {
 		super();
 		this.url = url;
 		this.method = method;
+		this.action = action;
 	}
 
 

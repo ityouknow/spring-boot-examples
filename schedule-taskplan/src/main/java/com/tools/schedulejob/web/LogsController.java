@@ -24,7 +24,7 @@ public class LogsController {
 	@RequestMapping("/getLog")
 	@Cacheable(value = "log-key")
 	public Logs getLogs() {
-		Logs logs = logsRepository.findByMethod("/addJob");
+		Logs logs = logsRepository.findByMethod("POST : /addJob");
 		logger.info("若下面没出现“无缓存的时候调用”字样且能打印出数据表示测试成功");
 		return logs;
 	}
