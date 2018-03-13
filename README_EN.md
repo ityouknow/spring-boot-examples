@@ -11,8 +11,9 @@ Spring Boot Examples, Use the simplest and most useful scene demo.
 
 ## Spring Boot 2.0
 
-- [spring-boot-banner](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-banner)：Spring Boot Customized Banner 
 
+- [spring-boot-hello](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-hello)：Spring Boot 2.0  Hello World Demo
+- [spring-boot-banner](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-banner)：Spring Boot Customized Banner 
 
 
 ---
