@@ -40,10 +40,7 @@ Spring Boot Examples, Use the simplest and most useful scene demo.
 - [spring-boot-file-upload](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-file-upload)：Spring Boot upload file demo   
 - [spring-boot-fastDFS](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-fastDFS)：Spring Boot Integrate FastDFS  upload delete and so on 
 - [spring-boot-actuator](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-actuator)：Spring Boot Actuator demo  
-- [spring-boot-admin-simple](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-admin-simple)：Spring Boot Admin demo    
-
-
-
-- [spring-boot-banner](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-banner)：Spring Boot 定制 Banner 示例
+- [spring-boot-admin-simple](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-admin-simple)：Spring Boot Admin demo   
+- [spring-boot-banner](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-banner)：Spring Boot Cumtom Banner 
 
 **[Favorites-web](https://github.com/cloudfavorites/favorites-web)：Open source projects developed using Spring Boot**
