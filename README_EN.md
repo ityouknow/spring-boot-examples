@@ -16,7 +16,9 @@ Spring Boot Examples, Use the simplest and most useful scene demo.
 - [spring-boot-banner](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-banner)：Spring Boot Customized Banner 
 - [spring-boot-docker](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-banner)：Spring Boot with Docker 
 - [dockercompose-springboot-mysql-nginx](https://github.com/ityouknow/spring-boot-examples/tree/master/dockercompose-springboot-mysql-nginx) ：Docker Compose + Spring Boot + Nginx + Mysql example
-- [spring-boot-commandLineRunner](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-commandLineRunner) ：Example of resource initialization at project startup using Spring Boot and commandLineRunner
+- [spring-boot-commandLineRunner](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-commandLineRunner) ：Example of resource initialization at project startup using Spring Boot and commandLineRunner  
+- [spring-boot-web-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-web-thymeleaf) ：Spring Boot uses thymeleaf to implement addition, deletion, and modification
+
 
 ---
 
