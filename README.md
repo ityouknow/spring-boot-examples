@@ -16,7 +16,9 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准
 - [spring-boot-hello](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-hello)：Spring Boot 2.0  Hello World 示例
 - [spring-boot-banner](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-banner)：Spring Boot 定制 Banner 示例
 - [spring-boot-docker](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-banner)：使用 Docker 部署 Spring Boot 示例
-- [dockercompose-springboot-mysql-nginx](https://github.com/ityouknow/spring-boot-examples/tree/master/dockercompose-springboot-mysql-nginx) ：Docker Compose + Spring Boot + Nginx + Mysql 示例
+- [dockercompose-springboot-mysql-nginx](https://github.com/ityouknow/spring-boot-examples/tree/master/dockercompose-springboot-mysql-nginx) ：Docker Compose + Spring Boot + Nginx + Mysql 示例  
+- [spring-boot-commandLineRunner](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-commandLineRunner) ：Spring Boot 使用 commandLineRunner 实现项目启动时资源初始化示例   
+
 
 **参考文章**
 
