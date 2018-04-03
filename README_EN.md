@@ -1,11 +1,11 @@
 # Spring Boot Examples
 
-this is ablout learn Spring Boot Examples
+This tutorial is about learning Spring Boot via examples.
 
 
 [Spring Cloud example code](https://github.com/ityouknow/spring-cloud-examples)  &nbsp;| &nbsp; [中文](README.md)
 
-Spring Boot Examples, Use the simplest and most useful scene demo.
+Spring Boot examples, using the simplest and the most useful scene demos.
 
 ---
 
