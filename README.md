@@ -28,7 +28,7 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准
 - [Spring Boot 2.0(三)：Spring Boot 开源软件都有哪些？](http://www.ityouknow.com/springboot/2018/03/05/spring-boot-open-source.html)  
 - [Spring Boot 2.0(四)：使用 Docker 部署 Spring Boot](http://www.ityouknow.com/springboot/2018/03/19/spring-boot-docker.html)  
 - [Spring Boot 2.0(五)：Docker Compose + Spring Boot + Nginx + Mysql 实践](http://www.ityouknow.com/springboot/2018/03/28/dockercompose-springboot-mysql-nginx.html)  
-
+- [Spring Boot 2.0(六)：使用 Docker 部署 Spring Boot 开源软件云收藏](http://www.ityouknow.com/springboot/2018/04/02/docker-favorites.html) 
 ---
 
 ## Spring Boot 1.0
