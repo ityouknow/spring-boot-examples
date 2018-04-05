@@ -1,8 +1,0 @@
-/neo/hello/spring-boot-atomikos/src/main/java/com/neo/config/SecondaryConfig.java
-/neo/hello/spring-boot-atomikos/src/main/java/com/neo/JtaAtomikosApplication.java
-/neo/hello/spring-boot-atomikos/src/main/java/com/neo/model/User.java
-/neo/hello/spring-boot-atomikos/src/main/java/com/neo/repository/test1/UserTest1Repository.java
-/neo/hello/spring-boot-atomikos/src/main/java/com/neo/config/PrimaryConfig.java
-/neo/hello/spring-boot-atomikos/src/main/java/com/neo/controller/HelloController.java
-/neo/hello/spring-boot-atomikos/src/main/java/com/neo/config/DataSourceConfig.java
-/neo/hello/spring-boot-atomikos/src/main/java/com/neo/repository/test2/UserTest2Repository.java
