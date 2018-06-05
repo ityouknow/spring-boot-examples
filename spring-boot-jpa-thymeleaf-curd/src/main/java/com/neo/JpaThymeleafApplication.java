@@ -7,6 +7,8 @@ import org.springframework.boot.web.support.SpringBootServletInitializer;
 
 
 @SpringBootApplication
+// @EnableJpaRepositories(basePackages = "com.clear.hibernate.dao")
+// @EntityScan(basePackages = "com.clear.hibernate.entity")
 public class JpaThymeleafApplication extends SpringBootServletInitializer {
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
