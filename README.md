@@ -2,7 +2,7 @@
 
 Spring Boot 使用的各种示例，以最简单、最实用为标准
 
-[Spring Boot 中文索引](https://github.com/ityouknow/awesome-spring-boot) &nbsp;| &nbsp; [Spring Cloud学习示例代码](https://github.com/ityouknow/spring-cloud-examples) &nbsp;| &nbsp; [Spring Boot 达人课](https://github.com/ityouknow/spring-boot-leaning) 
+[Spring Boot 中文索引](https://github.com/ityouknow/awesome-spring-boot) &nbsp;| &nbsp; [Spring Cloud学习示例代码](https://github.com/ityouknow/spring-cloud-examples) &nbsp;| &nbsp; [Spring Boot 精品课程](https://github.com/ityouknow/spring-boot-leaning) 
 
 [English](README_EN.md) &nbsp;| &nbsp;  [Github地址](https://github.com/ityouknow/spring-boot-examples) &nbsp;| &nbsp; [码云地址](https://gitee.com/ityouknow/spring-boot-examples) &nbsp;| &nbsp;  [Spring Boot 1.0](https://github.com/ityouknow/spring-boot-examples/tree/Spring-Boot-1.0)
 
