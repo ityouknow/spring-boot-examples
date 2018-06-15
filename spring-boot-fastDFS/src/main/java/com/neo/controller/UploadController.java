@@ -2,6 +2,7 @@ package com.neo.controller;
 
 import com.neo.fastdfs.FastDFSClient;
 import com.neo.fastdfs.FastDFSFile;
+import org.csource.fastdfs.FileInfo;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Controller;
@@ -46,6 +47,26 @@ public class UploadController {
     @GetMapping("/uploadStatus")
     public String uploadStatus() {
         return "uploadStatus";
+    }
+
+    @GetMapping("/delete")
+    public String delete(String groupName, String remoteFileName) {
+        try {
+            logger.info("groupName: " + groupName + " remoteFileName: " + remoteFileName);
+            FastDFSClient.deleteFile(groupName, remoteFileName);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return "upload";
+    }
+
+    @GetMapping("/getfile")
+    public String getFile(String groupName, String remoteFileName,
+                          RedirectAttributes redirectAttributes) {
+        FileInfo file = FastDFSClient.getFile(groupName, remoteFileName);
+        redirectAttributes.addFlashAttribute("message", file.getCreateTimestamp() + ":" + file.getFileSize()
+                + ":" + file.getCrc32() + ":" + file.getSourceIpAddr());
+        return "redirect:/uploadStatus";
     }
 
     /**

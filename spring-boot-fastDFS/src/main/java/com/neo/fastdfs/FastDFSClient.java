@@ -21,7 +21,7 @@ public class FastDFSClient {
 	}
 
 	public static String[] upload(FastDFSFile file) {
-		logger.info("File Name: " + file.getName() + "File Length:" + file.getContent().length);
+		logger.info("File Name: " + file.getName() + " File Length:" + file.getContent().length);
 
 		NameValuePair[] meta_list = new NameValuePair[1];
 		meta_list[0] = new NameValuePair("author", file.getAuthor());
