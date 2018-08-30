@@ -18,6 +18,8 @@ Spring Boot examples, using the simplest and the most useful scene demos.
 - [dockercompose-springboot-mysql-nginx](https://github.com/ityouknow/spring-boot-examples/tree/master/dockercompose-springboot-mysql-nginx) ：Docker Compose + Spring Boot + Nginx + Mysql example
 - [spring-boot-commandLineRunner](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-commandLineRunner) ：Example of resource initialization at project startup using Spring Boot and commandLineRunner  
 - [spring-boot-web-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-web-thymeleaf) ：Spring Boot uses thymeleaf to implement layout, check parameters and CURD
+- [spring-boot-memcache-spymemcached](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-memcache-spymemcached) ：Spring Boot uses spymemcached to  memcache
+
 
 ---
 
