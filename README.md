@@ -10,8 +10,9 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准
 
 ## Spring Boot 2.0
 
-
 **[Spring Boot 2.0 最全使用教程](https://github.com/ityouknow/spring-boot-leaning)**
+
+**[Favorites-web](https://github.com/cloudfavorites/favorites-web)：云收藏（Spring Boot 2.0 实战开源项目）**
 
 **示例代码**
 
@@ -58,9 +59,6 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准
 - [spring-boot-fastDFS](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-fastDFS)：Spring Boot 整合FastDFS示例  
 - [spring-boot-actuator](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-actuator)：Spring Boot Actuator 使用示例
 - [spring-boot-admin-simple](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-admin-simple)：Spring Boot Admin 的使用示例  
-
-**[Favorites-web](https://github.com/cloudfavorites/favorites-web)：云收藏（Spring Boot 实战开源项目）**
-
 
 **参考文章**
 

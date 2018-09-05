@@ -12,6 +12,8 @@ Spring Boot examples, using the simplest and the most useful scene demos.
 ## Spring Boot 2.0
 
 
+**[Favorites-web](https://github.com/cloudfavorites/favorites-web)：Open source projects developed using Spring Boot 2.0**
+
 - [spring-boot-hello](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-hello)：Spring Boot 2.0  Hello World Demo
 - [spring-boot-banner](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-banner)：Spring Boot Customized Banner 
 - [spring-boot-docker](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-banner)：Spring Boot with Docker 
@@ -45,5 +47,3 @@ Spring Boot examples, using the simplest and the most useful scene demos.
 - [spring-boot-actuator](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-actuator)：Spring Boot Actuator demo  
 - [spring-boot-admin-simple](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-admin-simple)：Spring Boot Admin demo   
 - [spring-boot-banner](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-banner)：Spring Boot Cumtom Banner 
-
-**[Favorites-web](https://github.com/cloudfavorites/favorites-web)：Open source projects developed using Spring Boot**
