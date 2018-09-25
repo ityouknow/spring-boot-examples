@@ -4,7 +4,6 @@ import com.mongodb.WriteResult;
 import com.neo.dao.UserDao;
 import com.neo.entity.UserEntity;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.autoconfigure.security.SecurityProperties;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;

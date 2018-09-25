@@ -3,6 +3,14 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
+	<!-- Spring Boot是为了简化Spring应用的创建、运行、调试、部署，使用默认习惯提供依赖
+	     默认使用tomcat作为服务器，使用logback提供日志记录-->
+	
+	<!-- cmd:项目构建打爆运行
+		1.打包：mvn clean package
+		2.运行：java -jar target/clear-tools-0.0.1-SNAPSHOT.jar
+	 -->
+	 
 	<groupId>com.neo</groupId>
 	<artifactId>spring-boot-hello</artifactId>
 	<version>1.0</version>
