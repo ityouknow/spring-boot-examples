@@ -15,6 +15,7 @@ public class HomeController {
         return"/index";
     }
 
+    //登录过程其实只是处理异常的相关信息，具体的登录验证交给shiro来处理
     @RequestMapping("/login")
     public String login(HttpServletRequest request, Map<String, Object> map) throws Exception{
         System.out.println("HomeController.login()");

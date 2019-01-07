@@ -19,17 +19,6 @@ public class PrimaryMongoObject {
 	private String id;
 
 	private String value;
-	
-	
-
-	public PrimaryMongoObject() {
-		super();
-		// TODO Auto-generated constructor stub
-	}
-
-	public PrimaryMongoObject(Object object, String string) {
-		// TODO Auto-generated constructor stub
-	}
 
 	@Override
 	public String toString() {

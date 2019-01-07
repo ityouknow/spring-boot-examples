@@ -20,18 +20,6 @@ public class SecondaryMongoObject {
 
 	private String value;
 
-
-	public SecondaryMongoObject() {
-		super();
-		// TODO Auto-generated constructor stub
-	}
-
-
-	public SecondaryMongoObject(Object object, String string) {
-		// TODO Auto-generated constructor stub
-	}
-
-
 	@Override
 	public String toString() {
         return "SecondaryMongoObject{" + "id='" + id + '\'' + ", value='" + value + '\''
