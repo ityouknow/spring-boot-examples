@@ -1,4 +1,4 @@
-package com.neo.domain;
+package com.neo.model;
 
 import java.io.Serializable;
 
@@ -28,7 +28,7 @@ public class User implements Serializable {
 	public User() {
 		super();
 	}
-	public User(String email, String nickName, String passWord, String userName, String regTime) {
+	public User(String nickName,String email,String userName,  String passWord, String regTime) {
 		super();
 		this.email = email;
 		this.nickName = nickName;
