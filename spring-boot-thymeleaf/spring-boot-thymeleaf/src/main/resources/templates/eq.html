@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en"  xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"></meta>
+    <title>Example gt eq  </title>
+</head>
+<body>
+<div >
+    <h1>EQ</h1>
+    <input th:value="${name}"/>
+    <br/>
+    <input th:value="${age gt 30 ? '中年':'年轻'}"/>
+    <br/>
+    <a th:if="${flag eq 'yes'}"  th:href="@{http://favorites.ren/}"> favorites </a>
+</div>
+</body>
+</html>
