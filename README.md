@@ -42,39 +42,41 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准
 ---
 
 
-## 下方示例逐步升级到2.X，目前更新到 Spring Boot(四)，最新进展可以关注下方公号。
+## 下方示例逐步升级到2.X，目前更新到 Spring Boot(五)，最新进展可以关注下方公号。
 
 ![](http://www.ityouknow.com/assets/images/java.jpg)
 
 **示例代码**
 
-- [spring-boot-helloWorld](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-helloWorld)：spring-boot的helloWorld版本
+- [spring-boot-helloWorld](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-helloWorld)：Spring Boot 的 hello World 版本
+- [spring-boot-web](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-web)：Spring Boot Web 开发综合示例
+- [spring-boot-redis](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-redis)：Spring Boot 集成 Redis 示例
+- [spring-boot-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-thymeleaf)：Spring Boot 使用 Thymeleaf 详细示例
+- [sspring-boot-jpa](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-jpa)：Spring Boot 使用 Jpa 各种示例
 - [spring-boot-mybaits-annotation](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-annotation)：注解版本
-- [spring-boot-mybaits-xml](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-xml)：xml配置版本
-- [spring-boot-mybatis-mulidatasource](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-mulidatasource)：springboot+mybatis多数据源最简解决方案
-- [spring-boot-mybatis-annotation-mulidatasource](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-annotation-mulidatasource)：springboot+mybatis（注解版）多数据源最简解决方案
-- [spring-boot-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-thymeleaf)：simple spring boot thymeleaf demo
-- [spring-boot-jpa-thymeleaf-curd](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-jpa-thymeleaf-curd)：spring boot + jpa + thymeleaf 增删改查示例
-- [spring-boot-rabbitmq](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-rabbitmq)：spring boot和rabbitmq各种消息应用案例
-- [spring-boot-scheduler](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-scheduler)：spring boot和定时任务案例
-- [spring-boot-web](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-web)：web开发综合使用案例
-- [spring-boot-mail](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mail)：spring boot和邮件服务
-- [spring-boot-mongodb](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mongodb)：spring boot和mongodb的使用
-- [spring-boot-multi-mongodb](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-multi-mongodb)：spring boot和mongodb多数据源的使用
-- [spring-boot-package-war](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-package-war)：spring-boot打包成war包示例
+- [spring-boot-mybaits-xml](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-xml)：xml 配置版本
+- [spring-boot-mybatis-mulidatasource](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-mulidatasource)：Spring Boot +mybatis多数据源最简解决方案
+- [spring-boot-mybatis-annotation-mulidatasource](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-annotation-mulidatasource)：Spring Boot +mybatis（注解版）多数据源最简解决方案
+- [spring-boot-jpa-thymeleaf-curd](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-jpa-thymeleaf-curd)：Spring Boot  + jpa + thymeleaf 增删改查示例
+- [spring-boot-rabbitmq](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-rabbitmq)：Spring Boot 和 Rabbitmq 各种消息应用案例
+- [spring-boot-scheduler](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-scheduler)：Spring Boot 和定时任务案例
+- [spring-boot-mail](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mail)：Spring Boot 和邮件服务
+- [spring-boot-mongodb](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mongodb)：Spring Boot 和 Mongodb 的使用
+- [spring-boot-multi-mongodb](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-multi-mongodb)：Spring Boot 和 Mongodb 多数据源的使用
+- [spring-boot-package-war](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-package-war)： Spring Boot 打包成 war 包示例
 - [spring-boot-shiro](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-shiro)：springboot 整合shiro rbac示例
-- [spring-boot-file-upload](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-file-upload)：使用Spring Boot 上传文件示例   
-- [spring-boot-fastDFS](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-fastDFS)：Spring Boot 整合FastDFS示例  
+- [spring-boot-file-upload](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-file-upload)：使用 Spring Boot 上传文件示例   
+- [spring-boot-fastDFS](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-fastDFS)：Spring Boot 整合 FastDFS 示例  
 - [spring-boot-actuator](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-actuator)：Spring Boot Actuator 使用示例
 - [spring-boot-admin-simple](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-admin-simple)：Spring Boot Admin 的使用示例  
 
 **参考文章**
 
-- [springboot(一)：入门篇](http://www.ityouknow.com/springboot/2016/01/06/spring-boot-quick-start.html)
-- [springboot(二)：web综合开发](http://www.ityouknow.com/springboot/2016/02/03/spring-boot-web.html)
-- [springboot(三)：Spring boot中Redis的使用](http://www.ityouknow.com/springboot/2016/03/06/spring-boot-redis.html)
-- [springboot(四)：thymeleaf使用详解](http://www.ityouknow.com/springboot/2016/05/01/spring-boot-thymeleaf.html)
-- [springboot(五)：spring data jpa的使用](http://www.ityouknow.com/springboot/2016/08/20/spring-boo-jpa.html)
+- [Spring Boot(一)：入门篇](http://www.ityouknow.com/springboot/2016/01/06/spring-boot-quick-start.html)
+- [Spring Boot(二)：Web 综合开发](http://www.ityouknow.com/springboot/2016/02/03/spring-boot-web.html)
+- [Spring Boot(三)：Spring Boot 中 Redis 的使用](http://www.ityouknow.com/springboot/2016/03/06/spring-boot-redis.html)
+- [Spring Boot(四)：Thymeleaf 使用详解](http://www.ityouknow.com/springboot/2016/05/01/spring-boot-thymeleaf.html)
+- [Spring Boot(五)：Spring Data Jpa 的使用](http://www.ityouknow.com/springboot/2016/08/20/spring-boo-jpa.html)
 - [springboot(六)：如何优雅的使用mybatis](http://www.ityouknow.com/springboot/2016/11/06/spring-boo-mybatis.html)
 - [springboot(七)：springboot+mybatis多数据源最简解决方案](http://www.ityouknow.com/springboot/2016/11/25/spring-boot-multi-mybatis.html)
 - [springboot(八)：RabbitMQ详解](http://www.ityouknow.com/springboot/2016/11/30/spring-boot-rabbitMQ.html)
