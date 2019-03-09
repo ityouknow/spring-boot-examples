@@ -44,7 +44,6 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准
 
 ## 下方示例逐步升级到2.X，目前更新到 Spring Boot(五)，最新进展可以关注下方公号。
 
-![](http://www.ityouknow.com/assets/images/java.jpg)
 
 **示例代码**
 
