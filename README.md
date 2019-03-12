@@ -2,7 +2,6 @@ Spring Boot 学习示例
 =========================
 
 ![Spring Boot 2.0](https://img.shields.io/badge/Spring%20Boot-2.0-brightgreen.svg)
-![Thymeleaf 3.0](https://img.shields.io/badge/Thymeleaf-3.0-yellow.svg)
 ![Mysql 5.6](https://img.shields.io/badge/Mysql-5.6-blue.svg)
 ![JDK 1.8](https://img.shields.io/badge/JDK-1.8-brightgreen.svg)
 ![Maven](https://img.shields.io/badge/Maven-3.5.0-yellowgreen.svg)
@@ -50,7 +49,7 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 ---
 
 
-## 下方示例逐步升级到2.X，目前更新到 Spring Boot(五)，最新进展可以关注下方公号。
+## 下方示例逐步升级到2.X，目前更新到 Spring Boot(六)，最新进展可以关注下方公号。
 
 ![](http://www.itmind.net/assets/images/java.jpg)
 
