@@ -46,10 +46,9 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 - [Spring Boot/Cloud 研发团队介绍](http://www.ityouknow.com/springboot/2019/01/03/spring-pivotal.html) 
 - [Spring Boot 2 (十)：Spring Boot 中的响应式编程和 WebFlux 入门](http://www.ityouknow.com/springboot/2019/02/12/spring-boot-webflux.html) 
 
----
 
 
-## 下方示例逐步升级到2.X，目前更新到 Spring Boot(六)，最新进展可以关注下方公号。
+## 下方示例逐步升级到2.X，目前更新到 Spring Boot(十)，最新进展可以关注下方公号。
 
 ![](http://www.itmind.net/assets/images/java.jpg)
 
