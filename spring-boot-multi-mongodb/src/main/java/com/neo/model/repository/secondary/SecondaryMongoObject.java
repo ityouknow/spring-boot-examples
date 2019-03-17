@@ -20,10 +20,14 @@ public class SecondaryMongoObject {
 
 	private String value;
 
+	public SecondaryMongoObject(String id, String value) {
+		super();
+		this.id = id;
+		this.value = value;
+	}
 
 	@Override
 	public String toString() {
-        return "SecondaryMongoObject{" + "id='" + id + '\'' + ", value='" + value + '\''
-				+ '}';
+		return "SecondaryMongoObject{" + "id='" + id + '\'' + ", value='" + value + '\'' + '}';
 	}
 }
