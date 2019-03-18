@@ -28,18 +28,20 @@ Spring Boot examples, using the simplest and the most useful scene demos.
 ## Spring Boot 1.0
 
 - [spring-boot-helloWorld](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-helloWorld)：Spring Boot helloWorld
-- [spring-boot-mybaits-annotation](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-annotation)：Spring Boot use mybatis annotation
-- [spring-boot-mybaits-xml](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-xml)：Spring Boot use mybatis xml 
-- [spring-boot-mybatis-mulidatasource](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-mulidatasource)：Spring Boot+mybatis+mulidatasource
-- [spring-boot-mybatis-annotation-mulidatasource](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-annotation-mulidatasource)：Spring Boot+ mybatis annotation + mulidatasource
-- [spring-boot-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-thymeleaf)：simple spring boot thymeleaf demo
+- [spring-boot-redis](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-redis)：Spring Boot Redis Demo
+- [spring-boot-jpa](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-jpa)：Spring Boot 使用 Jpa 各种示例
+- [spring-boot-mybaits-annotation](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis/spring-boot-mybatis-annotation)：Spring Boot use mybatis annotation
+- [spring-boot-mybaits-xml](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis/spring-boot-mybatis-xml)：Spring Boot use mybatis xml 
+- [spring-boot-mybatis-xml-mulidatasource](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis/spring-boot-mybatis-xml-mulidatasource)：Spring Boot+mybatis+mulidatasource
+- [spring-boot-mybatis-annotation-mulidatasource](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis/spring-boot-mybatis-annotation-mulidatasource)：Spring Boot+ mybatis annotation + mulidatasource
+- [spring-boot-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-thymeleaf)：Spring Boot Thymeleaf Demo
 - [spring-boot-jpa-thymeleaf-curd](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-jpa-thymeleaf-curd)：spring boot + jpa + thymeleaf curd demo
 - [spring-boot-rabbitmq](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-rabbitmq)： using AMQP and RabbitMQ
 - [spring-boot-scheduler](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-scheduler)：Timed tasks developed using Spring Boot 
 - [spring-boot-web](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-web)：Web projects developed using Spring Boot 
 - [spring-boot-mail](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mail)：Mail system developed using Spring Boot 
-- [spring-boot-mongodb](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mongodb)：Spring Boot + Mongodb
-- [spring-boot-multi-mongodb](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-multi-mongodb)：Spring Boot + multiMongodb
+- [spring-boot-mongodb](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mongodb/spring-boot-mongodb)：Spring Boot + Mongodb
+- [spring-boot-multi-mongodb](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mongodb/spring-boot-multi-mongodb)：Spring Boot + multiMongodb
 - [spring-boot-package-war](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-package-war)：Spring Boot package war
 - [spring-boot-shiro](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-shiro)：spring boot shiro rbac demo 
 - [spring-boot-file-upload](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-file-upload)：Spring Boot upload file demo   
