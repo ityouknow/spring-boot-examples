@@ -21,12 +21,11 @@ public class EmployeeController {
     public String add() {
         Employee employee = new Employee();
         employee.setId("1");
-        employee.setFirstName("xuxu");
-        employee.setLastName("zh");
-        employee.setAge(26);
-        employee.setAbout("i am in peking");
+        employee.setFirstName("Queen");
+        employee.setLastName("Oli");
+        employee.setAge(28);
+        employee.setAbout("i am Green Arrow");
         employeeRepository.save(employee);
-        System.err.println("add a obj");
         return "success";
     }
 
@@ -48,9 +47,8 @@ public class EmployeeController {
     @RequestMapping("update")
     public String update() {
         Employee employee = employeeRepository.queryEmployeeById("1");
-        employee.setFirstName("哈哈");
+        employee.setFirstName("Flash");
         employeeRepository.save(employee);
-        System.err.println("update a obj");
         return "success";
     }
     /**
