@@ -1,6 +1,6 @@
 package com.neo.service;
 
-import com.neo.entity.User;
+import com.neo.model.User;
 
 import java.util.List;
 
