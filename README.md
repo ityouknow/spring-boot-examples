@@ -49,7 +49,7 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 
 ## 下方示例已经全部升级到2.X，可关注下方公号查看。
 
-![](http://www.itmind.net/assets/images/java.jpg)
+![](http://www.ityouknow.com/assets/images/java.jpg)
 
 **示例代码**
 
