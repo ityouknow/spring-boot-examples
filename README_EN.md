@@ -22,7 +22,8 @@ Spring Boot examples, using the simplest and the most useful scene demos.
 - [spring-boot-web-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-web-thymeleaf) ：Spring Boot uses thymeleaf to implement layout, check parameters and CURD
 - [spring-boot-memcache-spymemcached](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-memcache-spymemcached) ：Spring Boot uses spymemcached to memcache
 - [spring-boot-webflux](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-webflux) ：Spring Boot webflux demo
-
+- [spring-boot-elasticsearch](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-elasticsearch) ：Spring Boot elasticsearch demo
+- [spring-boot-swagger](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-swagger) ：Spring Boot swagger2 demo
 ---
 
 ## Spring Boot 1.0

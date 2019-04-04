@@ -31,6 +31,8 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 - [spring-boot-web-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-web-thymeleaf) ：Spring Boot 使用 thymeleaf 实现布局、验参、增删改查示例    
 - [spring-boot-memcache-spymemcached](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-memcache-spymemcached) ：Spring Boot 使用 spymemcached 集成  memcache 示例
 - [spring-boot-webflux](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-webflux) ：Spring Boot webflux 示例
+- [spring-boot-elasticsearch](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-elasticsearch) ：Spring Boot elasticsearch 示例
+- [spring-boot-swagger](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-swagger) ：Spring Boot swagger2 示例
 
 **参考文章**
 
