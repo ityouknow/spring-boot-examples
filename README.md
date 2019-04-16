@@ -49,9 +49,11 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 - [Spring Boot 2 (十)：Spring Boot 中的响应式编程和 WebFlux 入门](http://www.ityouknow.com/springboot/2019/02/12/spring-boot-webflux.html) 
 
 
-## 下方示例已经全部升级到2.X，可关注下方公号查看。
+## 下方示例已经全部升级到 2.X，可关注下方公号查看。
 
 ![](http://www.ityouknow.com/assets/images/java.jpg)
+
+另外关注后，回复：java 获取超过10000+人领取的 Java 知识体系/面试必看资料。
 
 **示例代码**
 
