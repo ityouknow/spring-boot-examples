@@ -13,4 +13,5 @@ public class MultipleMongoProperties {
 
 	private MongoProperties primary = new MongoProperties();
 	private MongoProperties secondary = new MongoProperties();
+	
 }

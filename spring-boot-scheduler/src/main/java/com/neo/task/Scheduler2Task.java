@@ -6,10 +6,6 @@ import org.springframework.stereotype.Component;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- * Created by summer on 2016/12/1.
- */
-
 @Component
 public class Scheduler2Task {
 

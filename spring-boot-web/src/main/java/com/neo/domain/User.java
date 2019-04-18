@@ -6,8 +6,14 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-
+import javax.persistence.Table;
+/**
+ * 唯一约束unique:在添加还是修改的时候，如果相同数据库就会抛错，此时捕获这个异常，就可以做一些操作（就不需要我们把值拿出来进行判断是否存在了）
+ * @author MeSweet
+ *
+ */
 @Entity
+@Table(name="userWeb")
 public class User implements Serializable {
 
 	private static final long serialVersionUID = 1L;

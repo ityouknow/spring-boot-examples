@@ -9,7 +9,11 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.neo.domain.User;
 import com.neo.domain.UserRepository;
-
+/**
+ * 自动根据方法生成缓存
+ * value的值就是缓存到redis中的key
+ * @author MeSweet
+ */
 @RestController
 public class UserController {
 	

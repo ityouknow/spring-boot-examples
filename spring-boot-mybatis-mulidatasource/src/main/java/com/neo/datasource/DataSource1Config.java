@@ -17,6 +17,7 @@ import javax.sql.DataSource;
 
 /**
  * Created by summer on 2016/11/25.
+ * 自动装配时当出现多个Bean候选者时，被注解为@Primary的Bean将作为首选者
  */
 @Configuration
 @MapperScan(basePackages = "com.neo.mapper.test1", sqlSessionTemplateRef  = "test1SqlSessionTemplate")

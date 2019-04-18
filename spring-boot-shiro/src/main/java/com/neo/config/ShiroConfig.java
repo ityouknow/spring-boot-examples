@@ -41,7 +41,7 @@ public class ShiroConfig {
 	}
 
 	/**
-	 * 凭证匹配器
+	 * 配置凭证匹配器
 	 * （由于我们的密码校验交给Shiro的SimpleAuthenticationInfo进行处理了
 	 * ）
 	 * @return
@@ -54,6 +54,11 @@ public class ShiroConfig {
 		return hashedCredentialsMatcher;
 	}
 
+	/**
+	 * Shiro中，最终是通过Realm来获取应用程序中的用户、角色及权限信息的，Shiro的认证过程最终会交由Realm执行
+	 * 将凭证匹配器HashedCredentialsMatcher注入自定义的Realm
+	 * @return
+	 */
 	@Bean
 	public MyShiroRealm myShiroRealm(){
 		MyShiroRealm myShiroRealm = new MyShiroRealm();
@@ -61,7 +66,10 @@ public class ShiroConfig {
 		return myShiroRealm;
 	}
 
-
+	/**
+	 * 将MyShiroRealm注入SecurityManager
+	 * @return
+	 */
 	@Bean
 	public SecurityManager securityManager(){
 		DefaultWebSecurityManager securityManager =  new DefaultWebSecurityManager();

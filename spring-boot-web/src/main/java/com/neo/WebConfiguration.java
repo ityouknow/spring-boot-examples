@@ -14,7 +14,12 @@ import org.apache.catalina.filters.RemoteIpFilter;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-
+/**
+ * filters用于录调用日志、排除有XSS威胁的字符、执行权限验证等等。
+ * Spring Boot自动添加了OrderedCharacterEncodingFilter和HiddenHttpMethodFilter
+ * @author MeSweet
+ * 添加@Configuration 注解，将自定义Filter加入过滤链
+ */
 @Configuration
 public class WebConfiguration {
     @Bean
@@ -55,6 +60,3 @@ public class WebConfiguration {
 		}
     }
 }
-
-
-

@@ -20,7 +20,6 @@ public class SecondaryMongoObject {
 
 	private String value;
 
-
 	@Override
 	public String toString() {
         return "SecondaryMongoObject{" + "id='" + id + '\'' + ", value='" + value + '\''

@@ -2,7 +2,11 @@ package com.neo.util;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
-
+/**
+ * 自定义配置类
+ * @author MeSweet
+ *
+ */
 @Component
 public class NeoProperties {
 	

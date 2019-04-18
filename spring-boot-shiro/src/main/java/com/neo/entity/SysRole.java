@@ -12,7 +12,7 @@ public class SysRole {
     private Boolean available = Boolean.FALSE; // 是否可用,如果不可用将不会添加给用户
 
     //角色 -- 权限关系：多对多关系;
-    @ManyToMany(fetch= FetchType.EAGER)
+    @ManyToMany(fetch= FetchType.EAGER)//立即从数据库中进行加载数据;
     @JoinTable(name="SysRolePermission",joinColumns={@JoinColumn(name="roleId")},inverseJoinColumns={@JoinColumn(name="permissionId")})
     private List<SysPermission> permissions;
 

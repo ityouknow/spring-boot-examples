@@ -19,6 +19,13 @@ import javax.annotation.Resource;
 public class MyShiroRealm extends AuthorizingRealm {
     @Resource
     private UserInfoService userInfoService;
+    
+    /*
+     * shiro的权限授权是通过继承AuthorizingRealm抽象类，
+     * 重载doGetAuthorizationInfo();当访问到页面的时候，
+     * 链接配置了相应的权限或者shiro标签才会执行此方法否则不会执行，
+     * 所以如果只是简单的身份认证没有权限的控制的话，那么这个方法可以不进行实现
+     */
     @Override
     protected AuthorizationInfo doGetAuthorizationInfo(PrincipalCollection principals) {
         System.out.println("权限配置-->MyShiroRealm.doGetAuthorizationInfo()");

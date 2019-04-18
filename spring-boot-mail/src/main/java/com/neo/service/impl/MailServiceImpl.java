@@ -17,6 +17,7 @@ import java.io.File;
 
 /**
  * Created by summer on 2017/5/4.
+ * IMAP/SMTP : msgepziyjsubbhjf
  */
 @Component
 public class MailServiceImpl implements MailService{

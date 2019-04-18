@@ -10,9 +10,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.data.redis.core.ValueOperations;
-import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
-
-import com.neo.Application;
 import com.neo.domain.User;
 import org.springframework.test.context.junit4.SpringRunner;
 
@@ -23,6 +20,7 @@ public class TestRedis {
     @Autowired
     private StringRedisTemplate stringRedisTemplate;
     
+	@SuppressWarnings("rawtypes")
 	@Autowired
 	private RedisTemplate redisTemplate;
 
@@ -32,7 +30,8 @@ public class TestRedis {
         Assert.assertEquals("111", stringRedisTemplate.opsForValue().get("aaa"));
     }
     
-    @Test
+    @SuppressWarnings("unchecked")
+	@Test
     public void testObj() throws Exception {
         User user=new User("aa@126.com", "aa", "aa123456", "aa","123");
         ValueOperations<String, User> operations=redisTemplate.opsForValue();

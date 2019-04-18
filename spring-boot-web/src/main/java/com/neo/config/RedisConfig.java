@@ -17,7 +17,11 @@ import org.springframework.data.redis.serializer.Jackson2JsonRedisSerializer;
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.PropertyAccessor;
 import com.fasterxml.jackson.databind.ObjectMapper;
-
+/**
+ * cache的配置类
+ * @author MeSweet
+ *
+ */
 @Configuration
 @EnableCaching
 public class RedisConfig extends CachingConfigurerSupport{
@@ -47,7 +51,8 @@ public class RedisConfig extends CachingConfigurerSupport{
         return rcm;
     }
     
-    @Bean
+    @SuppressWarnings({ "rawtypes", "unchecked" })
+	@Bean
     public RedisTemplate<String, String> redisTemplate(RedisConnectionFactory factory) {
         StringRedisTemplate template = new StringRedisTemplate(factory);
         Jackson2JsonRedisSerializer jackson2JsonRedisSerializer = new Jackson2JsonRedisSerializer(Object.class);

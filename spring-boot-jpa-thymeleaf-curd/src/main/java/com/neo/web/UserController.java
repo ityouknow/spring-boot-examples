@@ -3,10 +3,8 @@ package com.neo.web;
 import com.neo.entity.User;
 import com.neo.service.UserService;
 import org.springframework.stereotype.Controller;
-import org.springframework.stereotype.Service;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
 
 import javax.annotation.Resource;
 import java.util.List;
