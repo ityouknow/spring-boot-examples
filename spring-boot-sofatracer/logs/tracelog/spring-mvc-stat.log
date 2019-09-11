@@ -1,0 +1,1 @@
+{"time":"2019-09-11 08:40:12.361","stat.key":{"method":"GET","local.app":"SOFABoot Demo","request.url":"http://localhost:8080/sofatracer/create"},"count":1,"total.cost.milliseconds":93,"success":"true","load.test":"F"}

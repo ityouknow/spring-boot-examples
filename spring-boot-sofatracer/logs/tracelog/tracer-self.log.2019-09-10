@@ -1,0 +1,107 @@
+2019-09-10 11:16:44.010[WARN]  spring-mvc-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-09-10 11:22:25.520[WARN]  spring-mvc-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-09-10 11:22:34.138[ERROR] Failed to report span to remote server. Current rest url is http://localhost:9411/api/v2/spans
+org.springframework.web.client.HttpClientErrorException$BadRequest: 400 Bad Request
+	at org.springframework.web.client.HttpClientErrorException.create(HttpClientErrorException.java:79)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:97)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:79)
+	at org.springframework.web.client.ResponseErrorHandler.handleError(ResponseErrorHandler.java:63)
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:777)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:735)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:636)
+	at com.alipay.sofa.tracer.plugins.zipkin.sender.ZipkinRestTemplateSender.post(ZipkinRestTemplateSender.java:78)
+	at com.alipay.sofa.tracer.plugins.zipkin.sender.ZipkinRestTemplateSender.sendSpans(ZipkinRestTemplateSender.java:66)
+	at zipkin2.reporter.AsyncReporter$BoundedAsyncReporter.flush(AsyncReporter.java:286)
+	at zipkin2.reporter.AsyncReporter$Builder$1.run(AsyncReporter.java:190)
+
+2019-09-10 11:22:57.448[WARN]  spring-mvc-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-09-10 11:23:16.058[ERROR] Failed to report span to remote server. Current rest url is http://localhost:9411/api/v2/spans
+org.springframework.web.client.HttpClientErrorException$BadRequest: 400 Bad Request
+	at org.springframework.web.client.HttpClientErrorException.create(HttpClientErrorException.java:79)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:97)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:79)
+	at org.springframework.web.client.ResponseErrorHandler.handleError(ResponseErrorHandler.java:63)
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:777)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:735)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:636)
+	at com.alipay.sofa.tracer.plugins.zipkin.sender.ZipkinRestTemplateSender.post(ZipkinRestTemplateSender.java:78)
+	at com.alipay.sofa.tracer.plugins.zipkin.sender.ZipkinRestTemplateSender.sendSpans(ZipkinRestTemplateSender.java:66)
+	at zipkin2.reporter.AsyncReporter$BoundedAsyncReporter.flush(AsyncReporter.java:286)
+	at zipkin2.reporter.AsyncReporter$Builder$1.run(AsyncReporter.java:190)
+
+2019-09-10 12:41:41.998[WARN]  datasource-client-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-09-10 12:41:43.424[ERROR] Failed to report span to remote server. Current rest url is http://localhost:9411/api/v2/spans
+org.springframework.web.client.HttpClientErrorException$BadRequest: 400 Bad Request
+	at org.springframework.web.client.HttpClientErrorException.create(HttpClientErrorException.java:79)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:97)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:79)
+	at org.springframework.web.client.ResponseErrorHandler.handleError(ResponseErrorHandler.java:63)
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:777)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:735)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:636)
+	at com.alipay.sofa.tracer.plugins.zipkin.sender.ZipkinRestTemplateSender.post(ZipkinRestTemplateSender.java:78)
+	at com.alipay.sofa.tracer.plugins.zipkin.sender.ZipkinRestTemplateSender.sendSpans(ZipkinRestTemplateSender.java:66)
+	at zipkin2.reporter.AsyncReporter$BoundedAsyncReporter.flush(AsyncReporter.java:286)
+	at zipkin2.reporter.AsyncReporter$Builder$1.run(AsyncReporter.java:190)
+
+2019-09-10 12:42:36.435[WARN]  datasource-client-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-09-10 12:42:37.792[ERROR] Failed to report span to remote server. Current rest url is http://localhost:9411/api/v2/spans
+org.springframework.web.client.HttpClientErrorException$BadRequest: 400 Bad Request
+	at org.springframework.web.client.HttpClientErrorException.create(HttpClientErrorException.java:79)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:97)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:79)
+	at org.springframework.web.client.ResponseErrorHandler.handleError(ResponseErrorHandler.java:63)
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:777)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:735)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:636)
+	at com.alipay.sofa.tracer.plugins.zipkin.sender.ZipkinRestTemplateSender.post(ZipkinRestTemplateSender.java:78)
+	at com.alipay.sofa.tracer.plugins.zipkin.sender.ZipkinRestTemplateSender.sendSpans(ZipkinRestTemplateSender.java:66)
+	at zipkin2.reporter.AsyncReporter$BoundedAsyncReporter.flush(AsyncReporter.java:286)
+	at zipkin2.reporter.AsyncReporter$Builder$1.run(AsyncReporter.java:190)
+
+2019-09-10 12:45:41.801[WARN]  datasource-client-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-09-10 12:45:43.189[ERROR] Failed to report span to remote server. Current rest url is http://localhost:9411/api/v2/spans
+org.springframework.web.client.HttpClientErrorException$BadRequest: 400 Bad Request
+	at org.springframework.web.client.HttpClientErrorException.create(HttpClientErrorException.java:79)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:97)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:79)
+	at org.springframework.web.client.ResponseErrorHandler.handleError(ResponseErrorHandler.java:63)
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:777)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:735)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:636)
+	at com.alipay.sofa.tracer.plugins.zipkin.sender.ZipkinRestTemplateSender.post(ZipkinRestTemplateSender.java:78)
+	at com.alipay.sofa.tracer.plugins.zipkin.sender.ZipkinRestTemplateSender.sendSpans(ZipkinRestTemplateSender.java:66)
+	at zipkin2.reporter.AsyncReporter$BoundedAsyncReporter.flush(AsyncReporter.java:286)
+	at zipkin2.reporter.AsyncReporter$Builder$1.run(AsyncReporter.java:190)
+
+2019-09-10 12:46:25.020[WARN]  datasource-client-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-09-10 12:46:26.424[ERROR] Failed to report span to remote server. Current rest url is http://localhost:9411/api/v2/spans
+org.springframework.web.client.HttpClientErrorException$BadRequest: 400 Bad Request
+	at org.springframework.web.client.HttpClientErrorException.create(HttpClientErrorException.java:79)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:97)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:79)
+	at org.springframework.web.client.ResponseErrorHandler.handleError(ResponseErrorHandler.java:63)
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:777)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:735)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:636)
+	at com.alipay.sofa.tracer.plugins.zipkin.sender.ZipkinRestTemplateSender.post(ZipkinRestTemplateSender.java:78)
+	at com.alipay.sofa.tracer.plugins.zipkin.sender.ZipkinRestTemplateSender.sendSpans(ZipkinRestTemplateSender.java:66)
+	at zipkin2.reporter.AsyncReporter$BoundedAsyncReporter.flush(AsyncReporter.java:286)
+	at zipkin2.reporter.AsyncReporter$Builder$1.run(AsyncReporter.java:190)
+
+2019-09-10 12:50:40.078[WARN]  datasource-client-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-09-10 12:50:41.468[ERROR] Failed to report span to remote server. Current rest url is http://localhost:9411/api/v2/spans
+org.springframework.web.client.HttpClientErrorException$BadRequest: 400 Bad Request
+	at org.springframework.web.client.HttpClientErrorException.create(HttpClientErrorException.java:79)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:97)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:79)
+	at org.springframework.web.client.ResponseErrorHandler.handleError(ResponseErrorHandler.java:63)
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:777)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:735)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:636)
+	at com.alipay.sofa.tracer.plugins.zipkin.sender.ZipkinRestTemplateSender.post(ZipkinRestTemplateSender.java:78)
+	at com.alipay.sofa.tracer.plugins.zipkin.sender.ZipkinRestTemplateSender.sendSpans(ZipkinRestTemplateSender.java:66)
+	at zipkin2.reporter.AsyncReporter$BoundedAsyncReporter.flush(AsyncReporter.java:286)
+	at zipkin2.reporter.AsyncReporter$Builder$1.run(AsyncReporter.java:190)
+
+2019-09-10 12:51:46.525[WARN]  spring-mvc-stat.log configured stat_log_interval=60 second and default cycle=60

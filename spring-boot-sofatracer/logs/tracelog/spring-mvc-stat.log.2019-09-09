@@ -1,0 +1,6 @@
+{"time":"2019-09-09 11:13:25.410","stat.key":{"method":"GET","local.app":"SOFABoot Demo","request.url":"http://localhost:8080/sofatracer/springmvc"},"count":1,"total.cost.milliseconds":62,"success":"true","load.test":"F"}
+{"time":"2019-09-09 11:18:46.514","stat.key":{"method":"GET","local.app":"SOFABoot Demo","request.url":"http://localhost:8080/sofatracer/springmvc"},"count":1,"total.cost.milliseconds":63,"success":"true","load.test":"F"}
+{"time":"2019-09-09 11:29:46.526","stat.key":{"method":"GET","local.app":"SOFABoot Demo","request.url":"http://localhost:8080/sofatracer/springmvc"},"count":1,"total.cost.milliseconds":0,"success":"true","load.test":"F"}
+{"time":"2019-09-09 14:25:21.346","stat.key":{"method":"GET","local.app":"SOFABoot Demo","request.url":"http://localhost:8080/sofatracer/springmvc"},"count":1,"total.cost.milliseconds":63,"success":"true","load.test":"F"}
+{"time":"2019-09-09 14:26:21.359","stat.key":{"method":"GET","local.app":"SOFABoot Demo","request.url":"http://localhost:8080/sofatracer/springmvc"},"count":6,"total.cost.milliseconds":77,"success":"true","load.test":"F"}
+{"time":"2019-09-09 15:33:21.465","stat.key":{"method":"GET","local.app":"SOFABoot Demo","request.url":"http://localhost:8080/sofatracer/springmvc"},"count":1,"total.cost.milliseconds":0,"success":"true","load.test":"F"}

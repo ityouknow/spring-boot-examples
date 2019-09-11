@@ -1,0 +1,1 @@
+{"time":"2019-09-11 08:39:12.482","local.app":"SOFABoot Demo","traceId":"73ab474c156816235238910016996","spanId":"0","request.url":"http://localhost:8080/sofatracer/create","method":"GET","result.code":"200","result.code":"200","req.size.bytes":-1,"resp.size.bytes":0,"time.cost.milliseconds":93,"current.thread.name":"http-nio-8080-exec-1","baggage":""}

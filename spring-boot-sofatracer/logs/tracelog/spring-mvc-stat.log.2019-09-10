@@ -1,0 +1,4 @@
+{"time":"2019-09-10 11:17:44.032","stat.key":{"method":"GET","local.app":"SOFABoot Demo","request.url":"http://localhost:8080/sofatracer/springmvc"},"count":1,"total.cost.milliseconds":62,"success":"true","load.test":"F"}
+{"time":"2019-09-10 11:17:44.048","stat.key":{"method":"GET","local.app":"SOFABoot Demo","request.url":"http://localhost:8080/sofatracer/create"},"count":1,"total.cost.milliseconds":16,"success":"true","load.test":"F"}
+{"time":"2019-09-10 11:21:44.029","stat.key":{"method":"GET","local.app":"SOFABoot Demo","request.url":"http://localhost:8080/sofatracer/create"},"count":1,"total.cost.milliseconds":16,"success":"true","load.test":"F"}
+{"time":"2019-09-10 12:52:46.537","stat.key":{"method":"GET","local.app":"SOFABoot Demo","request.url":"http://localhost:8080/sofatracer/create"},"count":1,"total.cost.milliseconds":47,"success":"true","load.test":"F"}
