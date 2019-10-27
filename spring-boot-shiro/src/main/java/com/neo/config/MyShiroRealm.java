@@ -1,8 +1,8 @@
 package com.neo.config;
 
-import com.neo.entity.SysPermission;
-import com.neo.entity.SysRole;
-import com.neo.entity.UserInfo;
+import com.neo.model.SysPermission;
+import com.neo.model.SysRole;
+import com.neo.model.UserInfo;
 import com.neo.sevice.UserInfoService;
 import org.apache.shiro.authc.AuthenticationException;
 import org.apache.shiro.authc.AuthenticationInfo;

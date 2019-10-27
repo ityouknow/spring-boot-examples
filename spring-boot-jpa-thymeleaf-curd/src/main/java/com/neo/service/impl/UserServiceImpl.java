@@ -1,12 +1,11 @@
 package com.neo.service.impl;
 
-import com.neo.entity.User;
+import com.neo.model.User;
 import com.neo.repository.UserRepository;
 import com.neo.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.ArrayList;
 import java.util.List;
 
 @Service
@@ -37,7 +36,7 @@ public class UserServiceImpl implements UserService{
 
     @Override
     public void delete(long id) {
-        userRepository.delete(id);
+        userRepository.deleteById(id);
     }
 }
 

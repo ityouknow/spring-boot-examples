@@ -5,6 +5,7 @@ import java.util.UUID;
 
 import javax.servlet.http.HttpSession;
 
+import com.neo.model.User;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -14,17 +15,7 @@ public class HelloController {
 	
     @RequestMapping("/hello")
 	public String hello(Locale locale, Model model) {
-		return "hello world";
+		return "Hello World";
 	}
-    
-    @RequestMapping("/uid")
-    String uid(HttpSession session) {
-        UUID uid = (UUID) session.getAttribute("uid");
-        if (uid == null) {
-            uid = UUID.randomUUID();
-        }
-        session.setAttribute("uid", uid);
-        return session.getId();
-    }
 
 }
