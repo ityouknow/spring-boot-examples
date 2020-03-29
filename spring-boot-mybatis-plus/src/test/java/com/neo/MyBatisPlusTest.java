@@ -46,6 +46,7 @@ public class MyBatisPlusTest {
     @Test
     public void testDelete() {
         assertThat(userMapper.deleteById(3L)).isGreaterThan(0);
+        //QueryWrapper 是 MyBatis-Plus 内部辅助查询类，可以使用 lambda 语法，也可以不使用。利用 QueryWrapper 类可以构建各种查询条件。
         assertThat(userMapper.delete(new QueryWrapper<User>()
                 .lambda().eq(User::getName, "smile"))).isGreaterThan(0);
     }
@@ -82,6 +83,7 @@ public class MyBatisPlusTest {
     public void testPage() {
         System.out.println("----- baseMapper 自带分页 ------");
         Page<User> page = new Page<>(1, 2);
+        //查询大于 6 岁的用户，并且分页展示，每页两条数据，展示第一页。
         IPage<User> userIPage = userMapper.selectPage(page, new QueryWrapper<User>()
                 .gt("age", 6));
         assertThat(page).isSameAs(userIPage);
