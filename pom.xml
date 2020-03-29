@@ -41,6 +41,10 @@
         <module>spring-boot-web</module>
         <module>spring-boot-web-thymeleaf</module>
         <module>spring-boot-webflux</module>
+
+        <module>spring-boot-mybatis-plus</module>
+        <module>spring-boot-swagger</module>
+        <module>spring-boot-elasticsearch</module>
     </modules>
 
     <build>
