@@ -85,6 +85,7 @@ public class MailServiceImpl implements MailService{
      * @param content
      * @param filePath
      */
+    @Override
     public void sendAttachmentsMail(String to, String subject, String content, String filePath){
         MimeMessage message = mailSender.createMimeMessage();
 
@@ -116,6 +117,7 @@ public class MailServiceImpl implements MailService{
      * @param rscPath
      * @param rscId
      */
+    @Override
     public void sendInlineResourceMail(String to, String subject, String content, String rscPath, String rscId){
         MimeMessage message = mailSender.createMimeMessage();
 
