@@ -1,7 +1,7 @@
 1.在pom中添加docker打包插件
 2.Dockerfile放到插件指定的位置
 
-3.将项目 spring-boot-docker 拷贝服务器中，进入项目路径下进行打包测试。
+3.将项目 spring-boot-docker 拷贝服务器中，进入项目路径下进行打包测试（服务器要先安装好jdk和maven）。
 #打包
 mvn package
 #启动
