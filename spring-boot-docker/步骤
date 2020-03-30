@@ -1,0 +1,17 @@
+1.在pom中添加docker打包插件
+2.Dockerfile放到插件指定的位置
+
+3.将项目 spring-boot-docker 拷贝服务器中，进入项目路径下进行打包测试。
+#打包
+mvn package
+#启动
+java -jar target/spring-boot-docker-1.0.jar
+
+
+4.看到 Spring Boot 的启动日志后表明环境配置没有问题，接下来我们使用 DockerFile 构建镜像。
+mvn package docker:build --构建镜像
+使用docker images命令查看构建好的镜像
+
+运行该镜像：docker run -p 8080:8080 -t springboot/spring-boot-docker
+查看正在运行的容器：docker ps
+访问浏览器：http://192.168.0.x:8080/
