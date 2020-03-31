@@ -53,6 +53,16 @@ public class ServiceCRUDTest {
     }
 
 
+    @Test
+    public void testSelect() {
+        List<User> list = userService.list(new QueryWrapper<User>().lambda().eq(User::getName,"it").select(User::getName, User::getEmail));
+        System.out.println("list = " + list);
+
+
+    }
+
+
+
     /**
      * // 链式更改 普通
      * UpdateChainWrapper<T> update();
@@ -100,15 +110,5 @@ public class ServiceCRUDTest {
 
     }
 
-    @Test
-    public void testSelect() {
-        User user = new User();
-        user.setName("wang");
-        user.setAge(18);
-
-        List<User> list = userService.list(new QueryWrapper<>(user));
-
-
-    }
 
 }
