@@ -15,7 +15,6 @@
         <module>spring-boot-banner</module>
         <module>spring-boot-commandLineRunner</module>
         <module>spring-boot-docker</module>
-        <module>spring-boot-fastDFS</module>
         <module>spring-boot-file-upload</module>
         <module>spring-boot-hello</module>
         <module>spring-boot-helloWorld</module>
