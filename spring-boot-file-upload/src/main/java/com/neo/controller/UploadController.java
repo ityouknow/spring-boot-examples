@@ -24,7 +24,7 @@ public class UploadController {
 
     @PostMapping("/upload") // //new annotation since 4.3
     public String singleFileUpload(@RequestParam("file") MultipartFile file,
-                                   RedirectAttributes redirectAttributes) {
+        RedirectAttributes redirectAttributes) {
         if (file.isEmpty()) {
             redirectAttributes.addFlashAttribute("message", "Please select a file to upload");
             return "redirect:uploadStatus";
@@ -33,16 +33,20 @@ public class UploadController {
         try {
             // Get the file and save it somewhere
             byte[] bytes = file.getBytes();
+            Path dir = Paths.get(UPLOADED_FOLDER);
             Path path = Paths.get(UPLOADED_FOLDER + file.getOriginalFilename());
+            // Create parent dir if not exists
+            if(!Files.exists(dir)) {
+                Files.createDirectories(dir);
+            }
             Files.write(path, bytes);
-
             redirectAttributes.addFlashAttribute("message",
-                    "You successfully uploaded '" + file.getOriginalFilename() + "'");
+                "You successfully uploaded '" + file.getOriginalFilename() + "'");
 
         } catch (IOException e) {
+            redirectAttributes.addFlashAttribute("message", "Server throw IOException");
             e.printStackTrace();
         }
-
         return "redirect:/uploadStatus";
     }
 
