@@ -10,12 +10,13 @@
     <version>2.0.0</version>
 
     <modules>
+        <module>dockercompose-springboot-mysql-nginx/app</module>
         <module>spring-boot-actuator</module>
         <module>spring-boot-admin-simple</module>
         <module>spring-boot-banner</module>
         <module>spring-boot-commandLineRunner</module>
         <module>spring-boot-docker</module>
-        <module>spring-boot-fastDFS</module>
+        <module>spring-boot-elasticsearch</module>
         <module>spring-boot-file-upload</module>
         <module>spring-boot-hello</module>
         <module>spring-boot-helloWorld</module>
@@ -30,12 +31,14 @@
         <module>spring-boot-mybatis/spring-boot-mybatis-annotation-mulidatasource</module>
         <module>spring-boot-mybatis/spring-boot-mybatis-xml</module>
         <module>spring-boot-mybatis/spring-boot-mybatis-xml-mulidatasource</module>
+        <module>spring-boot-mybatis-plus</module>
         <module>spring-boot-package</module>
         <module>spring-boot-package-war</module>
         <module>spring-boot-rabbitmq</module>
         <module>spring-boot-redis</module>
         <module>spring-boot-scheduler</module>
         <module>spring-boot-shiro</module>
+        <module>spring-boot-swagger</module>
         <module>spring-boot-thymeleaf/spring-boot-thymeleaf</module>
         <module>spring-boot-thymeleaf/spring-boot-thymeleaf-layout</module>
         <module>spring-boot-web</module>
