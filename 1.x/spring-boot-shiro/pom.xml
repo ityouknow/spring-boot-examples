@@ -45,7 +45,7 @@
 		<dependency>
 			<groupId>org.apache.shiro</groupId>
 			<artifactId>shiro-spring</artifactId>
-			<version>1.4.0</version>
+			<version>1.7.1</version>
 		</dependency>
 		<dependency>
 			<groupId>mysql</groupId>
