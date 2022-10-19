@@ -1,0 +1,9 @@
+mongodb:
+  primary:
+    host: 192.168.9.60
+    port: 20000
+    database: test
+  secondary:
+    host: 192.168.9.61
+    port: 20000
+    database: test1

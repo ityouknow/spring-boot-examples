@@ -1,0 +1,15 @@
+server:
+  port: 8080
+management:
+  security:
+    enabled: false #关掉安全认证
+  port: 8088 #管理端口调整成8088
+  context-path: /monitor #actuator的访问路径
+endpoints:
+  shutdown:
+    enabled: true
+
+info:
+   app:
+      name: spring-boot-actuator
+      version: 1.0.0
