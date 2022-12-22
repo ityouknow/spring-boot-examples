@@ -27,8 +27,8 @@ public class UserController {
         return user;
     }
 	
-    @RequestMapping("/getUser")
-    public User getUser() {
+    @RequestMapping("/getUserByName")
+    public User getUserByName() {
     	User user=userRepository.findByUserName("aa");
     	System.out.println("若下面没出现“无缓存的时候调用”字样且能打印出数据表示测试成功");  
         return user;

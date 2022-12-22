@@ -18,4 +18,12 @@ public class HelloController {
 		return "Hello World";
 	}
 
+	@RequestMapping("/getUser")
+	public User getUser() {
+		User user=new User();
+		user.setUserName("小明");
+		user.setPassWord("xxxx");
+		return user;
+	}
+
 }
