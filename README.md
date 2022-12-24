@@ -18,8 +18,8 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 
 **本项目中所有示例均已经更新到 Spring Boot 3.0**
 
-Spring Boot 1.X  系列示例代码请看这里：[Spring Boot 1.X](https://github.com/ityouknow/spring-boot-examples/tree/master/1.x) 
-Spring Boot 2.X  系列示例代码请看这里：[Spring Boot 2.X](https://github.com/ityouknow/spring-boot-examples/tree/master/2.x) 
+- Spring Boot 1.X  系列示例代码请看这里：[Spring Boot 1.X](https://github.com/ityouknow/spring-boot-examples/tree/master/1.x)   
+- Spring Boot 2.X  系列示例代码请看这里：[Spring Boot 2.X](https://github.com/ityouknow/spring-boot-examples/tree/master/2.x) 
 
 
 
