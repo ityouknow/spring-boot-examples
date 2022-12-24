@@ -26,8 +26,9 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 - [spring-boot-helloworld](https://github.com/ityouknow/spring-boot-examples/tree/master/3.x/spring-boot-helloWorld)：Spring Boot 3.0  Hello World Test 单元测试示例
 - [spring-boot-web](https://github.com/ityouknow/spring-boot-examples/tree/master/3.x/spring-boot-web)：Spring Boot 3.0 web 示例
 - [spring-boot-redis](https://github.com/ityouknow/spring-boot-examples/tree/master/3.x/spring-boot-redis)：Spring Boot 3.0 Redis 示例
-- [spring-boot-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/3.x/spring-boot-thymeleaf)：Spring Boot 3.0 Thymeleaf 语法使用 布局使用示例
-- [spring-boot-jpa](https://github.com/ityouknow/spring-boot-examples/tree/master/3.x/spring-boot-jpa)：Spring Boot 3.0 Jpa 操作示例  多数据源使用示例
+- [spring-boot-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/3.x/spring-boot-thymeleaf)：Spring Boot 3.0 Thymeleaf 语法、布局使用示例
+- [spring-boot-jpa](https://github.com/ityouknow/spring-boot-examples/tree/master/3.x/spring-boot-jpa)：Spring Boot 3.0 Jpa 操作、多数据源使用示例
+- [spring-boot-mybatis](https://github.com/ityouknow/spring-boot-examples/tree/master/3.x/spring-boot-jpa)：Spring Boot 3.0 Mybatis 注解、xml 使用、多数据源使用示例
 
 ---
 
