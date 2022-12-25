@@ -35,7 +35,7 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 - [spring-boot-mybatis](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis)：Spring Boot 3.0 Mybatis 注解、xml 使用、多数据源使用示例
 - [spring-boot-rabbitmq](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-rabbitmq)：Spring Boot 3.0 RabbitMQ 各种常见场景使用示例  
 - [spring-boot-scheduler](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-scheduler)：Spring Boot 3.0 定时任务 scheduler 使用示例
----
+- [spring-boot-mail](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mail)：Spring Boot 3.0 邮件发送使用示例
 
 > 如果大家想了解关于 Spring Boot 的其它方面应用，也可以以[issues](https://github.com/ityouknow/spring-boot-examples/issues)的形式反馈给我，我后续来完善。
 
