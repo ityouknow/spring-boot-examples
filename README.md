@@ -33,6 +33,7 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 - [spring-boot-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-thymeleaf)：Spring Boot 3.0 Thymeleaf 语法、布局使用示例
 - [spring-boot-jpa](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-jpa)：Spring Boot 3.0 Jpa 操作、多数据源使用示例
 - [spring-boot-mybatis](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis)：Spring Boot 3.0 Mybatis 注解、xml 使用、多数据源使用示例
+- [spring-boot-rabbitmq](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-rabbitmq)：Spring Boot 3.0 RabbitMQ 各种常见场景使用示例
 
 ---
 
