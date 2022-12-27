@@ -31,11 +31,18 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 - [spring-boot-web](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-web)：Spring Boot 3.0 web 示例
 - [spring-boot-redis](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-redis)：Spring Boot 3.0 Redis 示例
 - [spring-boot-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-thymeleaf)：Spring Boot 3.0 Thymeleaf 语法、布局使用示例
-- [spring-boot-jpa](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-jpa)：Spring Boot 3.0 Jpa 操作、多数据源使用示例
-- [spring-boot-mybatis](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis)：Spring Boot 3.0 Mybatis 注解、xml 使用、多数据源使用示例
+- [spring-boot-jpa](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-jpa)：Spring Boot 3.0 Jpa 操作、增删、改查多数据源使用示例
+- [spring-boot-mybatis](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis)：Spring Boot 3.0 Mybatis 注解、xml 使用、增删改查、多数据源使用示例
 - [spring-boot-rabbitmq](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-rabbitmq)：Spring Boot 3.0 RabbitMQ 各种常见场景使用示例  
 - [spring-boot-scheduler](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-scheduler)：Spring Boot 3.0 定时任务 scheduler 使用示例
 - [spring-boot-mail](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mail)：Spring Boot 3.0 邮件发送使用示例
+- [spring-boot-mongodb](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mongodb)：Spring Boot 3.0 MongoDB 增删改查示例 多数据源使用案例
+
+
+
+
+
+
 
 > 如果大家想了解关于 Spring Boot 的其它方面应用，也可以以[issues](https://github.com/ityouknow/spring-boot-examples/issues)的形式反馈给我，我后续来完善。
 
