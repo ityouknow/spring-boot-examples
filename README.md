@@ -37,7 +37,7 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 - [spring-boot-scheduler](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-scheduler)：Spring Boot 3.0 定时任务 scheduler 使用示例
 - [spring-boot-mail](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mail)：Spring Boot 3.0 邮件发送使用示例
 - [spring-boot-mongodb](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mongodb)：Spring Boot 3.0 MongoDB 增删改查示例 多数据源使用案例
-
+- [spring-boot-package](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-package)：Spring Boot 3.0 单元测试、集成测试、打 Jar/War 包、定制启动参数使用案例
 
 
 
