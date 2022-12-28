@@ -38,6 +38,8 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 - [spring-boot-mail](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mail)：Spring Boot 3.0 邮件发送使用示例
 - [spring-boot-mongodb](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mongodb)：Spring Boot 3.0 MongoDB 增删改查示例 多数据源使用案例
 - [spring-boot-package](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-package)：Spring Boot 3.0 单元测试、集成测试、打 Jar/War 包、定制启动参数使用案例
+- [spring-boot-web-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-web-thymeleaf)：Spring Boot 3.0 thymeleaf 增删该查示例
+- [spring-boot-jpa-thymeleaf-curd](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-jpa-thymeleaf-curd)：Spring Boot 3.0 Jpa thymeleaf 列表、增删改查使用案例
 
 
 
