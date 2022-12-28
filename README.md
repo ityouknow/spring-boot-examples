@@ -29,6 +29,7 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 - [spring-boot-banner](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-hello)：Spring Boot 3.0  定制 banner 示例
 - [spring-boot-helloworld](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-helloWorld)：Spring Boot 3.0  Hello World Test 单元测试示例
 - [spring-boot-web](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-web)：Spring Boot 3.0 web 示例
+- [spring-boot-webflux](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-webflux)：Spring Boot 3.0  响应式编程 WebFlux 使用案例
 - [spring-boot-redis](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-redis)：Spring Boot 3.0 Redis 示例
 - [spring-boot-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-thymeleaf)：Spring Boot 3.0 Thymeleaf 语法、布局使用示例
 - [spring-boot-jpa](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-jpa)：Spring Boot 3.0 Jpa 操作、增删、改查多数据源使用示例
