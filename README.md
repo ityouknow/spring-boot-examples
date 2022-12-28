@@ -41,8 +41,9 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 - [spring-boot-web-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-web-thymeleaf)：Spring Boot 3.0 thymeleaf 增删该查示例
 - [spring-boot-jpa-thymeleaf-curd](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-jpa-thymeleaf-curd)：Spring Boot 3.0 Jpa thymeleaf 列表、增删改查使用案例
 - [spring-boot-file-upload](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-file-upload)：Spring Boot 3.0 上传文件使用案例
-- [spring-boot-commandLineRunner](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-commandLineRunner)：Spring Boot 3.0 上传文件使用案例
-
+- [spring-boot-commandLineRunner](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-commandLineRunner)：Spring Boot 3.0 目启动时初始化资源案例
+- [spring-boot-docker](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-docker)：Spring Boot 3.0 Docker 使用案例
+- [spring-boot-memcache-spymemcached](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-memcache-spymemcached)：Spring Boot 3.0  集成 Memcached 使用案例
 
 
 > 如果大家想了解关于 Spring Boot 的其它方面应用，也可以以[issues](https://github.com/ityouknow/spring-boot-examples/issues)的形式反馈给我，我后续来完善。
