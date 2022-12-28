@@ -44,6 +44,7 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 - [spring-boot-file-upload](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-file-upload)：Spring Boot 3.0 上传文件使用案例
 - [spring-boot-commandLineRunner](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-commandLineRunner)：Spring Boot 3.0 目启动时初始化资源案例
 - [spring-boot-docker](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-docker)：Spring Boot 3.0 Docker 使用案例
+- [dockercompose-springboot-mysql-nginx](https://github.com/ityouknow/spring-boot-examples/tree/master/dockercompose-springboot-mysql-nginx)：Spring Boot 3.0 Docker Compose + Spring Boot + Nginx + Mysql 使用案例
 - [spring-boot-memcache-spymemcached](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-memcache-spymemcached)：Spring Boot 3.0  集成 Memcached 使用案例
 
 
