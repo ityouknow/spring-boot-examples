@@ -35,7 +35,7 @@
 		<dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-autoconfigure</artifactId>
-            <version>RELEASE</version>
+            <version>2.5.15</version>
         </dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
